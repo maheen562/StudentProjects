@@ -1,0 +1,51 @@
+news_source,num_articles,avg_rating
+,49,2.58
+ABCNews.com,31,2.38
+AP Associated Press,125,3.79
+Associated Press,267,3.87
+Bloomberg,50,3.57
+BuzzFeed,36,3.6
+CBSNews.com,70,2.41
+CNN,167,3.27
+CNN Health,47,2.76
+Chicago Sun-Times,2,2.0
+Chicago Tribune,30,2.5
+Des Moines Register,2,2.0
+Detroit Free Press,5,5.0
+FiveThirtyEight,16,4.0
+FoxNews.com,40,2.11
+Hartford Courant,3,3.0
+Health Day,535,3.11
+HealthDay,267,2.81
+Houston Chronicle,2,2.0
+Los Angeles Times,316,3.26
+MSNBC,35,2.33
+Medical Daily,11,2.2
+NBCNews.com,94,3.03
+NPR,300,3.45
+Newsweek,78,3.0
+Orlando Sentinel,5,1.67
+Reuters,110,2.62
+Reuters Health,550,3.31
+STAT,86,3.91
+Slate,5,2.5
+Star Tribune,1,1.0
+Sun-Sentinel,5,5.0
+TIME,22,2.75
+The Arizona Republic,2,2.0
+The Boston Globe,44,3.38
+The Dallas Morning News,3,1.5
+The Denver Post,7,1.75
+The Guardian,48,2.29
+The Houston Chronicle,10,2.0
+The Mercury News,2,2.0
+The New York Times,455,3.55
+The Oregonian,5,5.0
+The Philadelphia Inquirer,160,3.64
+The Wall Street Journal,380,3.58
+The Washington Post,172,3.07
+Time,91,2.68
+US News & World Report,50,2.94
+USA Today,139,3.48
+Vox,58,4.46
+WebMD,383,2.82

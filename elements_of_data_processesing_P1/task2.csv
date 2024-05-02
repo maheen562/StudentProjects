@@ -1,0 +1,1691 @@
+news_id,news_title,review_title,rating,num_satisfactory
+story_reviews_00000,The Guardian,Guardian jumps to conclusions about an Alzheimer’s study that hasn’t even begun,1,1
+story_reviews_00001,Reuters,"In story on experimental contraceptive gel, Reuters lets drug company control the narrative",3,6
+story_reviews_00002,ABCNews.com,"Using a single patient anecdote, ABC News hails DNA fertility test as ‘breakthrough’",2,3
+story_reviews_00003,Reuters,Hard to find the journalism in this brief Reuters story on clinical trial results for psoriasis drug,2,3
+story_reviews_00004,Health Day,A little more context would have boosted already-strong HealthDay story on drug for hot flashes,5,9
+story_reviews_00005,NPR,Props to NPR for highlighting the need for balanced decision-making around statins,4,7
+story_reviews_00006,Health Day,Independent source injects caution into a HeathDay story on ‘nerve zap’ for back pain,3,6
+story_reviews_00007,Newsweek,"Newsweek trumpets an ‘aggressive’ new cancer drug, but where’s the data?",1,2
+story_reviews_00008,USA Today,USA Today provides rosy speculation about an Alzheimer’s vaccine not yet tested in humans,3,6
+story_reviews_00009,CNN,CNN delivers a balanced report on peanut allergy treatment,5,9
+story_reviews_00010,FoxNews.com,Fox spreads ‘breakthrough’ claim but no real reporting on peanut allergy treatment,2,4
+story_reviews_00011,Bloomberg,Bloomberg uncritically touts ‘greater effectiveness’ of cell-based flu vaccine,3,6
+story_reviews_00012,Reuters,Reuters rehashes Merck announcement on Keytruda trial for esophageal cancer,1,2
+story_reviews_00013,CNN,CNN overstates evidence linking neck pulse measurements to increased dementia risk,2,4
+story_reviews_00014,FoxNews.com,Fox News regurgitates a hot mess from the UK Sun,2,2
+story_reviews_00015,Associated Press,"Thoughtful and thorough, AP story looks at growing trend of using ketamine for depression",5,8
+story_reviews_00016,ABCNews.com,ABC News story perpetuates misinformation that new drug will prevent spread of flu,2,4
+story_reviews_00017,The New York Times,New York Times warns readers that new flu drug ‘is no miracle cure’,4,8
+story_reviews_00018,Reuters,Litany of errors hampers Reuters story on experimental breast cancer drug,2,3
+story_reviews_00019,Health Day,HealthDay speculates that experimental cystic fibrosis drug combo could be ‘breakthrough’ and ‘game-changing’,3,5
+story_reviews_00020,Health Day,"HealthDay touts nerve device as ‘more effective,’ but data is from unpublished study with no control group",3,6
+story_reviews_00021,The Philadelphia Inquirer,Inquirer’s look at using Facebook to screen for depression emphasizes research ‘is still in very early stages’,4,7
+story_reviews_00022,Reuters,Reuters once again rehashes drug company news release,2,4
+story_reviews_00023,The Philadelphia Inquirer,"Doctor’s $620,000 conflict of interest not disclosed in Inquirer story on new migraine drugs",3,6
+story_reviews_00024,Associated Press,AP offers strong reporting about the evidence for a drug treatment for moderate bone loss,5,9
+story_reviews_00025,Health Day,"Are bacteria useful as cancer ‘weapons,’ or far too early to know? Key context missing from HealthDay story",2,4
+story_reviews_00026,Newsweek,Newsweek overlooks key limitation of study on vitamin D and childhood obesity,2,2
+story_reviews_00027,Reuters Health,"Antidepressants and therapy may ease IBS, but Reuters Health story is unclear on extent of benefit",3,5
+story_reviews_00028,STAT,STAT’s cheerleading coverage of prescription fish oil capsule lacks crucial context,3,5
+story_reviews_00029,The New York Times,"NY Times hails MitraClip a ‘huge advance’ for heart failure, but independent sources might have said otherwise",3,6
+story_reviews_00030,Newsweek,Newsweek story on Zika vaccine to zap brain cancer is fascinating–but needed more caution about mouse research,4,6
+story_reviews_00031,The Washington Post,One woman’s account of spinal cord stimulator skips realities of medical device safety in U.S.,2,4
+story_reviews_00032,US News & World Report,U.S. News churns out puff piece on medical marijuana app research,2,3
+story_reviews_00033,Reuters,Reuters story on kidney cancer drug makes us ask: How is this journalism?,1,1
+story_reviews_00034,Health Day,"Fish oil during pregnancy led to ‘stronger kids,’ but was the difference clinically meaningful?",4,6
+story_reviews_00035,NBCNews.com,"In story about ‘latest generation’ of weight loss drugs, NBC overlooks doctors’ pharma ties",2,3
+story_reviews_00036,US News & World Report,U.S. News & World Report regurgitates news release on cannabidiol and psychosis,2,3
+story_reviews_00037,The Wall Street Journal,WSJ reporter claims a carotid artery scan ‘saved’ his life — but there’s no way to know that,2,4
+story_reviews_00038,BuzzFeed,"Without an independent source, BuzzFeed’s story on a medical device for OCD doesn’t offer much beyond the news release",3,5
+story_reviews_00039,Newsweek,"Newsweek’s premature optimism about experimental ovarian cancer drug overlooks costs, harms and limitations of the evidence",2,3
+story_reviews_00040,Health Day,"Talazoparib touted as ‘promising,’ but is it any better than a similar breast cancer drug that’s already available?",3,5
+story_reviews_00041,Associated Press,"Multigene test may find risk for common diseases, but there’s no evidence it will make anyone healthier",3,6
+story_reviews_00042,ABCNews.com,How solid is the evidence behind the FDA-cleared ‘contraceptive app?’ ABC News doesn’t say,3,5
+story_reviews_00043,The Philadelphia Inquirer,"When n=1, it’s easy to jump to conclusions about a therapy working",4,7
+story_reviews_00044,Health Day,HealthDay neglects the potential harms of transplanting hepatitis-infected kidneys,3,5
+story_reviews_00045,Newsweek,Newsweek prematurely reports ‘promise’ for ketamine as a treatment for depressed teens,3,6
+story_reviews_00046,ABCNews.com,ABC News doesn’t oversell early research on blood test for depression,4,5
+story_reviews_00047,Vox,‘But it comes with some big caveats:’ Vox is clear about drawbacks of new endometriosis drug,4,8
+story_reviews_00048,Health Day,HealthDay provides needed details on side effects of THC-based drug studied for Alzheimer’s agitation,4,7
+story_reviews_00049,CNN,It’s way too soon to know if melanoma blood test will save ‘thousands of lives’,4,7
+story_reviews_00050,NPR,"All anecdote, no data: NPR’s take on high blood pressure and dementia",3,4
+story_reviews_00051,NPR,A 50% reduction in suicide risk? NPR story overstates the benefits of ‘Safety Planning Intervention’,3,5
+story_reviews_00052,The Philadelphia Inquirer,"Genetic testing to guide antidepressant choices: Big news coverage, but limited evidence",3,6
+story_reviews_00053,The Wall Street Journal,WSJ offers caution early and often in coverage of latest experimental Alzheimer’s drug,5,9
+story_reviews_00054,Reuters Health,A possible link between eyesight and cognitive function? Reuters Health summary is a little out of focus,3,5
+story_reviews_00055,STAT,"STAT suggests flu drug could ‘upend treatment,’ but there’s plenty to question about this claim",4,7
+story_reviews_00056,NPR,"NPR deftly summarizes results of early study using polio vaccine for brain cancer, except industry conflicts of interest",4,6
+story_reviews_00057,NBCNews.com,Atypical patient anecdote throws off well-reported NBC News story on experimental brain cancer treatment,4,6
+story_reviews_00058,The Washington Post,"FDA approves new marijuana-derived drug, but was the evidence solid? Washington Post doesn’t say",3,5
+story_reviews_00059,STAT,Small ‘diabetes vaccine’ study: STAT provides lots of useful numbers for readers,4,7
+story_reviews_00060,Health Day,One blood test to diagnose diabetes? HealthDay doesn’t address harms of overdiagnosis and overtreatment,3,5
+story_reviews_00061,Newsweek,"Newsweek’s story on the 16:8 diet: It’s not much more than a news release rewrite, but it’s at least cautious",3,5
+story_reviews_00062,Newsweek,Here’s one detail that should be included in almost all stories about cancer screening studies,3,5
+story_reviews_00063,BuzzFeed,BuzzFeed warns readers ‘a lot more work to be done’ to find out if experimental blood test can predict preterm birth,4,7
+story_reviews_00064,Reuters Health,"In story on texting program for chemo patients, Reuters Health keeps most study details on the DL",2,3
+story_reviews_00065,NPR,NPR (yet again) writes uncritically about ketamine for mental illness,1,1
+story_reviews_00066,The Guardian,Numerous problems plague Guardian’s coverage of ‘holy grail of cancer research’,2,2
+story_reviews_00067,Los Angeles Times,LA Times provides careful take on early brain/diabetes research–except for the headline,4,7
+story_reviews_00068,Health Day,HealthDay rehashes a news release claiming researchers have found new type of vertigo,1,1
+story_reviews_00069,Bloomberg,A study that may help reduce overtreatment of breast cancer gets solid write-up by Bloomberg,4,8
+story_reviews_00070,NBCNews.com,Drug’s ability to lower frequency of migraines by 50 percent sounds pretty good–until you read the fine print,3,6
+story_reviews_00071,The Philadelphia Inquirer,Inquirer delivers well-rounded report on using laughing gas for labor pain–except for two things,4,8
+story_reviews_00072,Reuters,Reuters story on MS drug for kids even less informative than the FDA news release,2,3
+story_reviews_00073,Newsweek,Newsweek stokes false hope with ‘cure for baldness’ based on preliminary evidence,3,4
+story_reviews_00074,The Wall Street Journal,Gene test for depression treatment: Realistic patient story helps keep WSJ article grounded,4,7
+story_reviews_00075,Health Day,Independent viewpoint helps round out HealthDay story on impact of earlier mammograms,4,7
+story_reviews_00076,The New York Times,"Thank you, New York Times, for asking ‘Who is behind these studies? Where does the money come from?’",4,8
+story_reviews_00077,The Guardian,"Another rehashed news release from the Guardian, this time about partial vs. full knee replacement surgery",2,3
+story_reviews_00078,Health Day,"In comparison of clot-busting drugs, HealthDay gets props for being clear on costs and harms",4,7
+story_reviews_00079,The Guardian,"Guardian spoon-feeds university news release to readers, claiming prostate cancer ‘breakthrough’",1,2
+story_reviews_00080,Reuters,Reuters numbs with numbers on experimental migraine drug,2,4
+story_reviews_00081,Health Day,Can ‘thinking differently’ help sooth chronic back pain? Hard to tell from HealthDay’s fuzzy reporting,3,5
+story_reviews_00082,The Washington Post,"Immunotherapy prolongs survival, but at what cost? Washington Post needed more on treatment downsides",3,5
+story_reviews_00083,Time,"Without any independent sources providing insight, readers of TIME’s coverage on lung cancer immunotherapy mostly left in the dark",2,3
+story_reviews_00084,Associated Press,Diagnosing Alzheimer’s using biomarkers–AP makes it clear that there is no benefit to patients,4,7
+story_reviews_00085,The New York Times,"By downplaying risks, NY Times column gives lopsided take on new shingles vaccine",3,5
+story_reviews_00086,CNN,CNN leaves out key limitation of study on legalizing marijuana and opioid use,3,5
+story_reviews_00087,The Boston Globe,Boston Globe overlooks evidence showing many patients not helped by ‘bionic’ joint replacements,3,5
+story_reviews_00088,The Wall Street Journal,Prostate cancer gene test: WSJ skirts around lack of long-term data,3,6
+story_reviews_00089,Associated Press,AP story on ‘selfie medicine’ adherence programs overlooked evidence showing they don’t work well,3,6
+story_reviews_00090,Reuters,Reuters lets Roche make data-free claims about drug’s impact on lung cancer survival,2,4
+story_reviews_00091,Los Angeles Times,Significant conflicts of interest not disclosed in LA Times story on modified Pap tests,3,5
+story_reviews_00092,The Philadelphia Inquirer,"Inquirer provides balanced and complete summary of debate over kratom, an herbal opioid",5,10
+story_reviews_00093,Newsweek,"Like so many news stories before it, Newsweek article makes male birth control pill sound imminent",3,6
+story_reviews_00094,Health Day,Is an unfinished pilot study of 8 patients really newsworthy?,3,5
+story_reviews_00095,Reuters,How strong is the evidence behind FDA’s proposal to reduce nicotine levels in cigarettes? Reuters story doesn’t say,3,6
+story_reviews_00096,Health Day,"Blood pressure pill shows promise compared to ‘usual care,’ HealthDay says, never explaining what that is",1,1
+story_reviews_00097,ABCNews.com,"In rehash of news release, ABC News glosses over realities of experimental menopause drug",2,3
+story_reviews_00098,CNN,A pat on the back to CNN for its well-written story on barbershops and blood pressure,5,8
+story_reviews_00099,USA Today,USA Today rehashes PR talking points in story on at-home breast cancer gene test,1,2
+story_reviews_00100,Vox,Vox thoroughly covers study on treatment alternatives to Alcoholics Anonymous,5,8
+story_reviews_00101,NPR,NPR story about online weight loss program left out a key detail: How much does it cost?,3,4
+story_reviews_00102,Associated Press,AP’s widely-reported story on IV fluids oversimplified the research,3,6
+story_reviews_00103,Reuters Health,"Though it may improve symptoms, minimally invasive heart valve surgery is not without risks",2,4
+story_reviews_00104,Newsweek,Retinal scans to detect heart attack risk? Newsweek offers a blurry picture,2,3
+story_reviews_00105,Newsweek,Newsweek headline overreaches with assertion that “many more” should take antidepressants,2,3
+story_reviews_00106,The Guardian,"Guardian trumpets a test to diagnose autism, but where’s the evidence?",1,1
+story_reviews_00107,CNN,CNN wrongly reports that a new blood test can “help detect concussion”,3,5
+story_reviews_00108,ABCNews.com,ABC downplays gloomy context in reporting ‘remarkable’ BACE1 finding for Alzheimer’s,1,2
+story_reviews_00109,CBSNews.com,Could this be a perfect example of health news clickbait?,2,2
+story_reviews_00110,Time,A flu-killing UV lamp? TIME overreaches about the state of the science,2,4
+story_reviews_00111,Health Day,HealthDay speculates about flu-fighting abilities of UVC light,2,3
+story_reviews_00112,NPR,"Emerging migraine treatments: NPR story deftly weighs the good, the bad and the unknowns",4,8
+story_reviews_00113,Bloomberg,Disease-mongering dogs Bloomberg’s story on prostate cancer drugs,3,6
+story_reviews_00114,Bloomberg,Bloomberg highlights modest weight loss benefit from standing desks study. Missing: a focus on better alternatives,2,3
+story_reviews_00115,Health Day,An Alzheimer’s study that included just 3 people: Does that warrant consumer news coverage?,3,6
+story_reviews_00116,The Washington Post,Washington Post story on hyperbaric therapy for head injuries notes uncertain benefit–but not potential harms,3,5
+story_reviews_00117,The New York Times,"Though it may reduce impact of a stroke, blood clot removal surgery is not without risks",3,5
+story_reviews_00118,CBSNews.com,Doctor with industry ties call sleep apnea device ‘revolutionary’ and ‘a game changer’ in CBS News story,1,2
+story_reviews_00119,NBCNews.com,High-tech buzzwords and scary patient anecdote dominate NBC’s story on ‘new approach’ for aortic aneurysms,1,2
+story_reviews_00120,NPR,"Cautious, independent voices help round out NPR’s look at experimental blood test for cancer",5,9
+story_reviews_00121,Associated Press,"‘It’s unknown whether treatment increases survival,’ AP wisely notes about new breast cancer drug",3,6
+story_reviews_00122,Health Day,HealthDay’s piece on ‘bone cement’ doesn’t hold together,1,2
+story_reviews_00123,The Wall Street Journal,"Stem cells for knee problems: WSJ doesn’t explore costs, harms, alternatives",3,5
+story_reviews_00124,NPR,NPR’s story on weight loss surgery in teens: Cost info would have improved a well-reported story,4,8
+story_reviews_00125,CNN,"CNN wisely challenges $425,000 price for gene therapy, but what about the claims of effectiveness?",3,6
+story_reviews_00126,Reuters Health,Reuters Health story on glaucoma and drinking hot tea skims over study limitations,4,5
+story_reviews_00127,US News & World Report,Exercise and mild cognitive impairment: How solid is the evidence? U.S. News doesn’t say,3,4
+story_reviews_00128,Los Angeles Times,LA Times provides strong overview on study showing vitamin D and calcium supplements don’t prevent fractures,4,6
+story_reviews_00129,US News & World Report,Little evidence to support assertion in U.S. News story that ADHD drugs can help smokers quit,3,4
+story_reviews_00130,NPR,No discussion of risks in NPR’s look at brain-zapping implants to treat destructive impulses,3,6
+story_reviews_00131,STAT,"Antibiotics could ‘dramatically reduce’ STIs, STAT says, though findings apply to small group of men",3,6
+story_reviews_00132,The Philadelphia Inquirer,Philadelphia Inquirer story skirts discussion of evidence for experimental migraine drug,3,5
+story_reviews_00133,Health Day,"HealthDay parrots another news release, this time overstating benefits of exercise for lymphoma",2,2
+story_reviews_00134,The Washington Post,Gene therapy and hemophilia: Washington Post wisely tells readers ‘the study has some limitations’,4,8
+story_reviews_00135,Reuters Health,"A short, small study can’t prove opening doors or windows improves sleep quality",3,4
+story_reviews_00136,Time,"When weight loss is the intervention, it’s still important to talk about costs and harms",3,6
+story_reviews_00137,NBCNews.com,Outside experts help round out NBC’s report on minimally invasive back pain procedure,3,7
+story_reviews_00138,The Guardian,Guardian story on new migraine drug never establishes why it’s ‘an important step forward’,2,4
+story_reviews_00139,Newsweek,Fecal transplant via a pill? Newsweek’s coverage points out possible selection bias of study participants,4,7
+story_reviews_00140,Associated Press,Patient anecdote outweighs data in AP’s look at lymph node transfer surgery,3,5
+story_reviews_00141,Time,Be wary of news headlines promising to unlock secrets of ‘living longer’,2,3
+story_reviews_00142,CNN,Spit test for concussion detection: CNN story includes some important caveats,4,7
+story_reviews_00143,ABCNews.com,"Skimpy, source-free ABC News story on new blood pressure guidelines unlikely to help readers much",3,4
+story_reviews_00144,CNN,CNN is clear on the comparative benefits of two drugs for opioid use disorder,3,6
+story_reviews_00145,The Washington Post,"‘Regular painkillers work as well as opioids for fractures,’ but is this new information?",3,6
+story_reviews_00146,BuzzFeed,BuzzFeed story on IUDs and cervical cancer warns readers ‘these are observational studies’,3,6
+story_reviews_00147,NBCNews.com,Preliminary Alzheimer’s study involving plasma infusions–was this really newsworthy?,3,6
+story_reviews_00148,The New York Times,"NYT dives deep into potential impact of stent study, but needed more specifics on what was measured",4,8
+story_reviews_00149,The Wall Street Journal,"WSJ’s look at stent study: Solid reporting, with room for more detail on costs and risks",4,8
+story_reviews_00150,Reuters Health,‘Dramatic benefit’ of surgery in kids with epilepsy–potential harms clearly outlined,4,7
+story_reviews_00151,US News & World Report,U.S. News & World Report story on COPD and vitamin A left us wondering ‘what’s the news?’,4,6
+story_reviews_00152,Health Day,HealthDay’s rehashed news release overstates dementia benefits of blood thinners,2,3
+story_reviews_00153,The Wall Street Journal,"Plenty of context, but evidence was AWOL in WSJ story on uterine fibroid treatment",4,7
+story_reviews_00154,Associated Press,Brief but informative report from AP on newly approved shingles vaccine,3,6
+story_reviews_00155,The Washington Post,Washington Post wisely quantifies severe side effects and deaths from CAR-T cell therapy,3,6
+story_reviews_00156,Newsweek,"Readers will be swept in by Newsweek’s story on pending muscular dystrophy drug, but what does the evidence show?",4,7
+story_reviews_00157,The Wall Street Journal,WSJ wisely reports on Ebola vaccines: ‘It is unknown…what antibody levels are needed to protect patients’,4,6
+story_reviews_00158,Health Day,HealthDay rehashes news release in uncritical look at breast cancer screening,2,3
+story_reviews_00159,Health Day,"Drink more water to reduce UTI risk, urge researchers who work for Evian’s manufacturer",3,4
+story_reviews_00160,The New York Times,New York Times is upfront about risk of ‘absolutely crazy’ prices for gene therapy treatment,4,7
+story_reviews_00161,Associated Press,AP makes it clear that gene therapy has uncertain future for treating ALD,4,7
+story_reviews_00162,Time,‘May help’…’may prevent:’ Conditional statements water down TIME’s look at exercise and depression study,3,4
+story_reviews_00163,Associated Press,AP’s write-up on a new continuous blood sugar monitor–where’s the proof that it works?,3,5
+story_reviews_00164,The Philadelphia Inquirer,Study limitations needed more attention in Inquirer’s look at whooping cough vaccine study,4,6
+story_reviews_00165,CNN,CNN speculates about benefits of preliminary research finding on potential CTE biomarker,4,6
+story_reviews_00166,NPR,Independent source bolsters NPR’s report on oral food challenges for allergies,4,7
+story_reviews_00167,The Philadelphia Inquirer,Sleep deprivation for depression: Philadelphia Inquirer gives readers needed context on study limitations,4,7
+story_reviews_00168,Newsweek,Is one study of 51 men enough to declare the ‘two-week diet’ is better for dropping pounds?,3,4
+story_reviews_00169,Associated Press,AP’s story on cancer immunotherapy quickly mentions low success rate,4,6
+story_reviews_00170,ABCNews.com,ABC News touts affordability of at-home BRCA test without delving into any drawbacks,3,5
+story_reviews_00171,The New York Times,Solid report from NYT on peanut product that claims to reduce allergy risk,5,9
+story_reviews_00172,Reuters Health,Reuters Health deftly reports new data on hormone therapy for menopause,5,8
+story_reviews_00173,US News & World Report,"U.S. News compares accuracy of colon cancer screening tests, but what about costs?",3,5
+story_reviews_00174,The Guardian,Guardian leaves out a key potential conflict of interest in story on statin study,2,3
+story_reviews_00175,Health Day,HealthDay cautiously reports results of Opdivo melanoma study,4,8
+story_reviews_00176,STAT,STAT provides readers with necessary details to make sense of new PSA screening study,4,8
+story_reviews_00177,Los Angeles Times,LA Times portrays PSA screening analysis as far more clear-cut and definite than even the authors claim,3,5
+story_reviews_00178,Associated Press,Anecdotes dominate AP’s story on EMTs using nitrous oxide for pain relief,3,5
+story_reviews_00179,The Washington Post,Washington Post’s otherwise well-reported story on ecstasy for PTSD skirts evidence discussion,4,7
+story_reviews_00180,Time,TIME’s look at new heart drug overlooks high price and potentially fatal risks,3,5
+story_reviews_00181,Reuters,"In coverage of anti-inflammatory heart drug from Novartis, Reuters keeps it real",4,7
+story_reviews_00182,Reuters,Reuters doesn’t dig deep enough into FDA’s approval of ‘new’ Parkinson’s drug Gocovri,2,4
+story_reviews_00183,The New York Times,NY Times touts ‘compelling’ results for unproven hair loss product,3,5
+story_reviews_00184,Time,"New therapy may ‘cure’ peanut allergy, TIME unwisely speculates (again)",2,4
+story_reviews_00185,NBCNews.com,NBC News doesn’t back away from shortcomings of new blood test for early cancer detection,5,10
+story_reviews_00186,Bloomberg,Strong recap on cancer blood test should have challenged survival claims,4,7
+story_reviews_00187,ABCNews.com,ABC News story on new ALS drug Radicava included many caveats–except the most important one,3,5
+story_reviews_00188,NBCNews.com,"NBC News says gene test ‘may help treat depression,’ but doesn’t back up claim",2,4
+story_reviews_00189,NPR,Managing ‘mummy tummy:’ More study details would’ve tightened informative NPR piece,3,5
+story_reviews_00190,Associated Press,"AP story says new drug ‘cures’ hepatitis C, but that’s no guarantee patients will be spared cirrhosis or liver cancer",3,6
+story_reviews_00191,Health Day,Cautious tone underpins HealthDay’s story on experimental treatment to reduce kidney transplant rejection,4,8
+story_reviews_00192,STAT,STAT puts $950 DNA-based fertility test under the microscope,5,9
+story_reviews_00193,NPR,More discussion of study’s limitations needed in NPR’s story on chronic fatigue test,3,6
+story_reviews_00194,Los Angeles Times,Do PET scans improve dementia diagnosis? LA Times story overlooks harms of screening,3,5
+story_reviews_00195,The Guardian,Stem cell brain implants–what could go wrong? Guardian doesn’t say,4,6
+story_reviews_00196,Vox,Vox says experimental HIV vaccine is ‘promising.’ But is it?,4,7
+story_reviews_00197,NPR,"Needle-free vaccines: NPR’s story is solid effort, but needed more on the medical evidence behind the claims",3,6
+story_reviews_00198,Vox,To taper or not to taper off opioids? Vox lays out strengths and weaknesses of new study,5,8
+story_reviews_00199,Health Day,"Laser treatment for eye ‘floaters’–HealthDay notes small study size, but not cost or risks",3,5
+story_reviews_00200,Newsweek,Newsweek presents a mostly balanced account of family’s unconventional cancer journey,4,6
+story_reviews_00201,NBCNews.com,"NBC News claims new imaging technique ‘may predict heart attacks,’ but where’s the data?",2,3
+story_reviews_00202,The Washington Post,"Washington Post wisely notes that CAR T-cell therapy may cost at least $300,000",4,7
+story_reviews_00203,STAT,"Vaccine shows protection against gonorrhea, STAT reports. But what about the costs and potential harms?",4,8
+story_reviews_00204,Los Angeles Times,“Good for you” or not? Mixed messages in LA Times coverage of coffee studies,4,5
+story_reviews_00205,Newsweek,It’s misleading to call results from phase 1 trials with 6 and 13 patients a ‘cancer breakthrough’,4,7
+story_reviews_00206,US News & World Report,U.S. News takes careful look at emailed help for smoking cessation,5,8
+story_reviews_00207,The Washington Post,Washington Post deftly examines lack of evidence for a fuzzy area of psychiatry: animal therapy,5,8
+story_reviews_00208,Reuters,Reuters turns unpublished pilot studies into news,2,3
+story_reviews_00209,Health Day,Preeclampsia and aspirin: HealthDay does solid job covering new study findings,5,7
+story_reviews_00210,BuzzFeed,Buzzfeed offers refreshing candor in explainer piece on female condom,5,10
+story_reviews_00211,The Wall Street Journal,WSJ’s look at digital therapy covers a lot of ground–except potential downsides,4,8
+story_reviews_00212,Associated Press,It’s still a conflict of interest when a source ‘wasn’t part of the research’ but is a consultant for the drug company,3,6
+story_reviews_00213,US News & World Report,"Though light on data, U.S. News & World Report story looks at lack of evidence for arthroscopic knee surgery",4,6
+story_reviews_00214,CBSNews.com,"CBS News says ‘yoga as good as physical therapy’–OK, but what does ‘good’ mean?",2,3
+story_reviews_00215,Health Day,"Acupuncture in the ER: No, study did not prove it was ‘safe and effective’",2,3
+story_reviews_00216,The Guardian,"For story on experimental prostate cancer blood test, Guardian leans heavily on news release",1,2
+story_reviews_00217,The Philadelphia Inquirer,‘O-Shot’ incontinence fix: Inquirer sets out lack of scientific support for procedure,5,8
+story_reviews_00218,NBCNews.com,"Small, unpublished study on new knee pain procedure needed more scrutiny from NBC News",4,7
+story_reviews_00219,The Washington Post,Washington Post’s look at Silicon Valley ‘smart drugs’ needed a stronger shot of skepticism,3,5
+story_reviews_00220,Health Day,Speculation overshadows caution in HealthDay’s snake venom-derived blood thinner story,3,6
+story_reviews_00221,Newsweek,"Newsweek says ‘new vaccine could stop heroin abuse’ — in four monkeys, at least",3,5
+story_reviews_00222,Reuters,"Strong on context, light on data: Reuters Health story on chondroitin for knee pain",3,6
+story_reviews_00223,Time,TIME takes cautious approach with probiotics and depression study,4,8
+story_reviews_00224,Bloomberg,Bloomberg offers up balanced recap of new breast cancer therapy,5,9
+story_reviews_00225,The Philadelphia Inquirer,Positive anecdotes dominate Philadelphia Inquirer story on ‘UroLift’ for enlarged prostate,3,6
+story_reviews_00226,Los Angeles Times,Immunotherapy’s ‘new era:’  LA Times story overlooks the risks and overstates trial results,2,4
+story_reviews_00227,CNN,CNN deftly reports on results of trial of cannabis-derived drug for severe epilepsy,5,9
+story_reviews_00228,Newsweek,"Newsweek speculates about an ‘obesity cure,’ and doesn’t disclose important conflict of interest",2,3
+story_reviews_00229,The Guardian,Cautions and caveats help buoy Guardian story on using high platelet count for cancer detection,4,6
+story_reviews_00230,Health Day,Could an expensive chemotherapy drug treat severe asthma? It’s too soon to know,4,7
+story_reviews_00231,Reuters,Keytruda for bladder cancer: No independent scrutiny of Merck-reported results,3,6
+story_reviews_00232,Bloomberg,Bloomberg story provides clear-eyed view of trendy neurofeedback brain-training clinics,5,9
+story_reviews_00233,NBCNews.com,How solid is the evidence for an implantable sleep apnea device? NBC’s story doesn’t say,3,4
+story_reviews_00234,The Washington Post,"‘Baby aspirin may reduce risk of breast cancer,’ says Washington Post, omitting some major limitations of the study",3,3
+story_reviews_00235,Health Day,Blood thinners may prevent dementia in atrial fibrillation patients–or they may not,3,5
+story_reviews_00236,USA Today,USA Today story based on one anecdote serves as promotional megaphone for Microsoft,2,3
+story_reviews_00237,Reuters Health,"Except for needing more sources, Reuters Health story on Graves’ disease is well-reported",4,8
+story_reviews_00238,Newsweek,Marijuana and memory: Newsweek writes about mouse research–but is at least upfront about it,4,5
+story_reviews_00239,NPR,"NPR suggests experimental concussion ‘spit test’ can improve care, but that’s not what researchers looked at",3,6
+story_reviews_00240,Health Day,A pat on the back to HealthDay for thorough report on ulcerative colitis drug,5,9
+story_reviews_00241,The New York Times,Potential cancer-detecting breath test gets breathless write-up in New York Times,2,4
+story_reviews_00242,The Guardian,"Interesting postpartum depression study results reported in the Guardian, but have they actually been published?",2,3
+story_reviews_00243,STAT,STAT’s cautious story provides interesting insights into challenges of Alzheimer’s research,5,8
+story_reviews_00244,The Philadelphia Inquirer,"‘Game-changer, Holy Grail, groundbreaking’ used in Philly Inquirer story on phase 1 trial",3,5
+story_reviews_00245,US News & World Report,Informative journalism or promotional puff piece? U.S News & World Report story blurs the line,2,3
+story_reviews_00246,The Wall Street Journal,WSJ story on prostate procedure: No independent sources were quoted,3,6
+story_reviews_00247,CNN,CNN avoids slimy claims about using frog peptides to kill flu viruses,5,7
+story_reviews_00248,The New York Times,"No, a ‘pacemaker’ for the brain can’t help memory (yet)",3,5
+story_reviews_00249,NBCNews.com,NBC’s single source report on device for treating cluster headaches lacks balance,2,4
+story_reviews_00250,CBSNews.com,CBS’s anecdotal story on botox for major depression omits major conflicts of interest,2,3
+story_reviews_00251,Associated Press,"AP story on trans fats ban: Strong on sourcing, but left out key detail about study findings",5,7
+story_reviews_00252,Reuters Health,‘That finding could be due to chance:’ Reuters Health uses caution to explain study on trans fats ban,5,7
+story_reviews_00253,Associated Press,Lack of independent sources hinders AP story on new drug that treats side effect caused by antipsychotics,4,7
+story_reviews_00254,STAT,Facial-recognition software for diagnosing genetic disorders: STAT leaves too many questions unanswered,2,4
+story_reviews_00255,Health Day,"Stem cell ‘patch’ for heart failure: HealthDay cautions readers about small study size, lack of control group",3,6
+story_reviews_00256,Vox,Walk or run for exercise? Vox provides informative look at risks and benefits of both,5,6
+story_reviews_00257,CNN,"CNN claims aspirin can reduce cancer death risk, falling into observational study trap",2,3
+story_reviews_00258,CBSNews.com,"‘Promising’ new lymphoma treatment gets superficial, one-sided coverage by CBS",2,4
+story_reviews_00259,Newsweek,Big gaps in reporting plus misleading statements mar Newsweek’s fluffy look at magnets for depression,2,4
+story_reviews_00260,NBCNews.com,Lack of independent sources weaken NBC’s look at pricey eczema drug,4,8
+story_reviews_00261,The New York Times,Throw away your reading glasses? Informative Times report on ‘brain-training’ for vision doesn’t quite back up the headline,5,8
+story_reviews_00262,NBCNews.com,NBC calls rodent retina research ‘game changer’ for vision loss in people,3,6
+story_reviews_00263,Vox,Vox touts ‘simple way to help combat opioid epidemic’ that is anything but simple,2,4
+story_reviews_00264,CBSNews.com,CBS News speculates about what at-home sperm-checking device ‘could’ do,2,3
+story_reviews_00265,The Washington Post,Online counseling for high blood pressure: Washington Post wisely includes caveats,4,5
+story_reviews_00266,The New York Times,NY Times’s look at non-drug heartburn treatments may leave readers confused,2,2
+story_reviews_00267,The New York Times,"‘Don’t stop your statins,’ urges New York Times blog post that’s only four short paragraphs",3,4
+story_reviews_00268,Bloomberg,"Bloomberg paints rosy picture of virtual reality for PTSD, glossing over the hard evidence",2,3
+story_reviews_00269,Associated Press,AP’s evidence-free story on ‘baby box’ giveaway suggests company had an inventive marketing success,3,4
+story_reviews_00270,Reuters Health,Reuters Health lays out pros and cons of high resolution screening for heart patients; skimps on study limitations,2,4
+story_reviews_00271,Time,TIME’s ‘pink noise’ sleep machine story gives too-rosy account of benefits,3,5
+story_reviews_00272,NPR,Can these 10 foods really ‘cut risk of early death’? NPR overstates the evidence,4,6
+story_reviews_00273,ABCNews.com,"ABC News extrapolates wildly, misleads readers by claiming high intensity exercise ‘could be secret to staying young’",2,2
+story_reviews_00274,Reuters Health,Reuters Health carefully hedges results of study on mild shocks for migraines,4,7
+story_reviews_00275,NBCNews.com,Well-sourced Today.com story doesn’t oversell findings of study on MRIs for early autism detection,3,6
+story_reviews_00276,Associated Press,AP doesn’t sugar coat harms of CAR-T therapy for lymphoma,3,7
+story_reviews_00277,NPR,"Strong overall, NPR story on naltrexone for alcohol use disorder needed some numbers to describe benefits",3,6
+story_reviews_00278,NBCNews.com,Heavy on anecdote and light on evidence: NBC News’s story on experimental migraine drug,3,4
+story_reviews_00279,STAT,Vitamins delivered via IV: STAT wisely asks ‘where’s the evidence?’,5,8
+story_reviews_00280,Associated Press,A ‘microbiome’ skin lotion tested on 5 people gets little scrutiny by AP,3,5
+story_reviews_00281,The Philadelphia Inquirer,Philadelphia Inquirer is clear about the underwhelming benefits of testosterone therapy in older men,5,8
+story_reviews_00282,Health Day,HealthDay’s story on stem cells for aggressive MS is upfront about death risk,3,6
+story_reviews_00283,Time,TIME is upfront about new psoriasis drug’s black box warning for suicidal behavior risk,4,8
+story_reviews_00284,The Wall Street Journal,"In story on vision-improving headset, WSJ left most important detail in the dark",3,6
+story_reviews_00285,The Washington Post,Invasive weed kills superbugs? All we know is it might work in mice,2,4
+story_reviews_00286,The New York Times,‘The most effective intervention we have:’ NY Times glosses over risks of bariatric surgery,3,4
+story_reviews_00287,CNN,"In story on experimental blood test, CNN goes where few dare–the test’s sensitivity and specificity",4,7
+story_reviews_00288,BuzzFeed,An app a day keeps pregnancy away? BuzzFeed’s informative look at Natural Cycles app gets a gold star,5,9
+story_reviews_00289,USA Today,USA Today story on ‘FODMAP’ diet for tummy troubles gives readers plenty to bite on,4,8
+story_reviews_00290,The New York Times,NY Times deftly describes findings of study on using hormone blockers for prostate cancer recurrence,4,8
+story_reviews_00291,STAT,"STAT said drug ‘halved’ prostate cancer deaths, but that’s not the full picture",3,6
+story_reviews_00292,Reuters,Journalism or marketing? Reuters promotes results of drug study no one has seen yet,3,5
+story_reviews_00293,Health Day,"Can a breath test detect stomach cancers? HealthDay story has notes of caution, but also veers into speculation",2,3
+story_reviews_00294,Reuters Health,Reuters Health provides balanced look at alternative remedies for premature ejaculation,4,8
+story_reviews_00295,FoxNews.com,No original reporting: Fox News story rehashes news release for story on autism and fecal transplants,2,3
+story_reviews_00296,Health Day,"HealthDay’s story on ablation for atrial fibrillation: wisely cautious, but needed more on study limitations",3,5
+story_reviews_00297,NPR,NPR story on kangaroo care for newborns left us feeling fussy,3,5
+story_reviews_00298,The Philadelphia Inquirer,Philadelphia Inquirer reports clearly on obesity treatments but skimps on research details,3,6
+story_reviews_00299,Health Day,Are tonsillectomy guidelines too strict? HealthDay’s too-sharp angle goes beyond what studies found,3,6
+story_reviews_00300,CBSNews.com,CBS barely dodges observational study trap with hot chili pepper story,3,5
+story_reviews_00301,Time,‘Coffee might slow down aging?’ That’s a stretch,1,1
+story_reviews_00302,The Guardian,Guardian’s look at weekend warrior study: Why no mention of (plentiful) limitations?,4,6
+story_reviews_00303,Newsweek,Newsweek confuses association with causation in ‘weekend warrior’ exercise story,4,6
+story_reviews_00304,Reuters Health,Reuters Health succinctly and accurately summarizes study looking at bystander CPR and survivor rates,5,8
+story_reviews_00305,US News & World Report,Medical evidence for lumbar support runs counter to claims made in U.S. News & World Report story,3,6
+story_reviews_00306,STAT,"By including independent viewpoints, STAT takes a more measured approach to coverage of brain cancer immunotherapy",4,7
+story_reviews_00307,Time,"With no independent sources, TIME oversells brain cancer treatment",3,6
+story_reviews_00308,The New York Times,"Bravo, New York Times, for using absolute risk reduction numbers in story on fish oil for asthma",4,7
+story_reviews_00309,Health Day,Experimental heart failure drug: By how much did it help? HealthDay story doesn’t say,4,7
+story_reviews_00310,Health Day,HealthDay story on antibiotics for ear infections is less informative than the news release,1,2
+story_reviews_00311,Reuters,Reuters rehashes news release in story on deep-sea laser treatment for prostate cancer,1,2
+story_reviews_00312,Vox,"Vox notes limitations of meta-analysis on starting school later, albeit not until end of story",4,8
+story_reviews_00313,Reuters Health,Reuters Health briefly but aptly reports survey findings of partner-assisted skin exams for melanoma survivors,4,6
+story_reviews_00314,The New York Times,Off the mark and too short: NYT blog post on older kidney donors,2,3
+story_reviews_00315,NBCNews.com,NBC’s look at kangaroo care 20 years later: No mention of important research limitations,3,5
+story_reviews_00316,NPR,Anecdotes outweigh evidence discussion in NPR’s report on pets and severe mental illness,3,4
+story_reviews_00317,STAT,Solid but single-sourced: STAT’s coverage of Alzheimer’s drugs needed an independent voice,4,6
+story_reviews_00318,CBSNews.com,Optimism and longevity: Absolute rates of death risk would have improved CBS story,3,4
+story_reviews_00319,The Guardian,Guardian’s story on strobe lights: Mouse research on Alzheimer’s again finds its way to mainstream audience,2,3
+story_reviews_00320,Time,Exercise leads to ‘better’ sperm? TIME story doesn’t tell us by how much,4,5
+story_reviews_00321,Reuters Health,Reuters Health story on light therapy for drivers is a shining example of solid medical journalism,5,6
+story_reviews_00322,Los Angeles Times,LA Times strikes the right balance by reporting evenly on both harms and benefits of ‘magic mushrooms’ for cancer patients,4,7
+story_reviews_00323,STAT,STAT’s roundup of allergy treatment research needed discussion of costs,4,7
+story_reviews_00324,Associated Press,AP story on skin patch sweat monitor may make readers wonder: News or marketing?,2,3
+story_reviews_00325,The Wall Street Journal,Thorough WSJ report on insomnia treatments would have benefited from cost comparison,4,8
+story_reviews_00326,NPR,"NPR story says older patients ‘can benefit’ from lung cancer surgery, but study didn’t show that",2,4
+story_reviews_00327,Bloomberg,Bloomberg’s conflicted sources ‘love’ new cholesterol drugs — readers need to know about financial relationships with pharma,3,6
+story_reviews_00328,Associated Press,Thorough and well-done: AP story on Vivitrol injections for inmates with opioid use disorder,5,8
+story_reviews_00329,The Washington Post,New statin guidelines: WaPo story wisely mentions ongoing debate about their overuse,3,4
+story_reviews_00330,The Philadelphia Inquirer,Zinc for stomach problems: Philly.com story only quoted people with a financial stake in supplements,3,5
+story_reviews_00331,Reuters,Reuters–along with many other news sites–parrots erroneous news release on HIV testing via USB stick,2,4
+story_reviews_00332,The New York Times,NYT Well blog post overstates the proven benefits of controlled breathing,2,3
+story_reviews_00333,The Wall Street Journal,Fast-track treatment for hip fractures: WSJ story needed some figures to back up the claims,3,5
+story_reviews_00334,USA Today,USA Today gives solid overview on uncertainties around calcium supplements and heart health,4,7
+story_reviews_00335,Health Day,Gastric balloon for weight loss: HealthDay avoids hot air by balancing PR spin with skepticism from independent sources,4,8
+story_reviews_00336,The Washington Post,Hookworms for asthma: Washington Post oversells preliminary research,2,3
+story_reviews_00337,Associated Press,Testing cholesterol in toddlers: AP story says it ‘could help’ but study didn’t show that,4,6
+story_reviews_00338,The Guardian,Guardian calls statistically insignificant study results a ‘breakthrough’ in care of children with autism,3,5
+story_reviews_00339,The Wall Street Journal,WSJ story wisely includes lots of caveats on mail-order telomere tests,3,6
+story_reviews_00340,CBSNews.com,CBS’s look at a preliminary trial using gene therapy needed more on downsides and unknowns,2,4
+story_reviews_00341,Associated Press,PulsePoint app for cardiac arrest: AP story left us with more questions than answers,4,5
+story_reviews_00342,Time,Here we go again: TIME writes about preliminary mouse research,2,3
+story_reviews_00343,CNN,"Are expensive, potent anti-inflammatory drugs a future option for depression? CNN’s story needed more scrutiny of evidence",3,5
+story_reviews_00344,NPR,NPR falls into the anecdotal trap with story on robotic arm for paralyzed man,3,6
+story_reviews_00345,Health Day,Potential conflicts of interest abound in HealthDay’s look at Lemtrada for early stages of MS,3,5
+story_reviews_00346,STAT,PARP inhibitors: STAT’s look at new ovarian cancer drugs should have established why we need more on the market,3,5
+story_reviews_00347,Reuters,Reuters’ ‘New day in lung cancer’ presents overly rosy picture of Keytruda,3,5
+story_reviews_00348,NBCNews.com,NBC story on severe incontinence study lacked independent sources,3,6
+story_reviews_00349,The Washington Post,Experimental immunotherapy for kids with leukemia gets balanced coverage by Washington Post,5,9
+story_reviews_00350,FoxNews.com,Classic disease-mongering: Fox News story on Marisa Tomei’s struggle with chronic dry eye,1,1
+story_reviews_00351,The New York Times,NY Times gives little scrutiny to industry-funded eczema drug studies,3,6
+story_reviews_00352,The Philadelphia Inquirer,Inquirer overstates findings of pilot study on app for post-concussion monitoring,3,3
+story_reviews_00353,NPR,Benefits of walking for older adults: NPR story missed a cautionary detail,4,5
+story_reviews_00354,ABCNews.com,"ABC story on stroke surgery: More needed on costs, harms, conflicts of interest",3,5
+story_reviews_00355,STAT,STAT’s look at migraine drugs in development skimmed over key research details,2,4
+story_reviews_00356,The Wall Street Journal,WSJ story on new nuclear-imaging tests: What about the data?,3,5
+story_reviews_00357,Health Day,"New radiation guidelines for breast cancer: There’s ‘enough’ evidence, HealthDay story states, skirting specifics",4,6
+story_reviews_00358,Time,TIME’s story on infants and food allergy risks overstates research findings,2,2
+story_reviews_00359,Reuters,Reuters mostly rehashes a news release for story on light box therapy for low-male libido,2,3
+story_reviews_00360,The Guardian,The Guardian’s look at an inhaler to protect lungs from air pollution borders on puffery,3,6
+story_reviews_00361,NBCNews.com,Surgery instead of reading glasses? NBC’s look at new implant leaned hard on one patient anecdote,3,5
+story_reviews_00362,The Wall Street Journal,Battling ‘super lice:’ WSJ story provides solid overview on the treatment options,5,9
+story_reviews_00363,Associated Press,AP’s look at baseline concussion testing for student athletes lacked critical eye,3,5
+story_reviews_00364,Time,Benefits of infrared saunas: TIME story needed to turn up the heat,2,4
+story_reviews_00365,The Washington Post,Washington Post story on cord blood transplants for cancer: Too many anecdotes and not enough evidence,2,3
+story_reviews_00366,CBSNews.com,CBS story on water-based physical therapy stays in the shallow end,2,4
+story_reviews_00367,Health Day,HealthDay does a good job reporting on study of long-term weight loss after bariatric surgery,4,7
+story_reviews_00368,NPR,"Unlike many other news sites, NPR resists overstating results of Alzheimer’s study",4,6
+story_reviews_00369,The New York Times,Hormone replacement for menopause: Times’s attempt to clarify may confuse further,2,3
+story_reviews_00370,Newsweek,"Well-written, Newsweek’s look at blood tests for mental illnesses needed more hard data",3,5
+story_reviews_00371,Bloomberg,Bloomberg’s story on virtual reality for pain control was a little too rosy,4,7
+story_reviews_00372,STAT,Powerful patient video anecdote in STAT’s story overshadows realities of new treatment for essential tremor,4,7
+story_reviews_00373,Los Angeles Times,Breast density and mammograms: LA Times story leans hard on news release,3,4
+story_reviews_00374,Vox,A pat on the back to Vox for excellent reporting on melatonin,5,9
+story_reviews_00375,The Wall Street Journal,"Medicating kids with ADHD keeps them safer? Not so fast, Wall Street Journal",3,3
+story_reviews_00376,Health Day,HealthDay story misleads by making osteoporosis study sound like it compared two drugs,4,7
+story_reviews_00377,NPR,When worms are the clickbait: NPR story confuses more than informs,3,5
+story_reviews_00378,The Guardian,Guardian’s reporting on side effects of drugs for bipolar disorder hits many key points,4,8
+story_reviews_00379,Medical Daily,‘Alzheimer’s disease can be fully cured:’ Medical Daily story is a forehead-slapper,2,4
+story_reviews_00380,NBCNews.com,NBC says Zika vaccine trial has ‘striking results’ but it hasn’t even been tested in people yet,3,5
+story_reviews_00381,Reuters,"In just a few short paragraphs, Reuters story covers a lot of ground on asthma pill",4,7
+story_reviews_00382,Medical Daily,‘Game changer’ finds it way into poorly reported story on asthma pill still in development,1,1
+story_reviews_00383,FiveThirtyEight,Excellent job by FiveThirtyEight on why at-home colon cancer tests are a good screening option,5,10
+story_reviews_00384,Time,"Fish oil after a heart attack: TIME misses the mark by leaving out harms, study limitations",3,5
+story_reviews_00385,The Washington Post,Washington Post story on PTSD treatment ignores evidence in favor of detailed patient anecdote,3,6
+story_reviews_00386,Associated Press,Can exercise ‘undo’ sedentary harms? AP story makes observational data sound definitive,4,5
+story_reviews_00387,FoxNews.com,Allergy-fighting toothpaste? Yet another single-source Fox News story that reads like sponsored content,2,4
+story_reviews_00388,Medical Daily,"Leaning heavily on news release, story on anxiety therapy for children lacks crucial context",2,2
+story_reviews_00389,Reuters,More backstory needed on study of ‘brain training’ benefits for dementia,3,5
+story_reviews_00390,BuzzFeed,Fitbit and fertility: Not enough caution or context on 5-woman study,2,4
+story_reviews_00391,The New York Times,NYT blog post on sugar’s effect on heart disease markers was a little too short and sweet,3,4
+story_reviews_00392,USA Today,USA Today injects a vital dose of scrutiny to story on ‘dry needling’ for pain,4,8
+story_reviews_00393,ABCNews.com,ABC’s look at treating PTSD with virtual reality: Classic example of anecdote over evidence,1,2
+story_reviews_00394,The Wall Street Journal,Kudos to WSJ for giving thorough look at ‘Heimlich alternative’ devices for choking victims,5,10
+story_reviews_00395,CBSNews.com,CBS story on stem cells and root canals inflates the benefits and ignores the risks,2,3
+story_reviews_00396,Health Day,News release and HealthDay create perfect storm of misinformation on statins and cancer,3,4
+story_reviews_00397,The New York Times,"Cavity-fighting liquid for kids: Nice story, but what does the medical evidence show?",4,8
+story_reviews_00398,STAT,STAT’s story on postpartum depression drug– ‘a paradigm shift’ that needed more scrutiny,4,6
+story_reviews_00399,Reuters,‘This is a game changer:’ Reuters story on new dissolvable stent borders on giddy,3,6
+story_reviews_00400,Associated Press,AP takes pains to point out lack of long-term data for new dissolvable stent,4,8
+story_reviews_00401,The Wall Street Journal,WSJ story on prostate cancer treatment test leaves us wondering: Why no independent viewpoints?,4,7
+story_reviews_00402,The Washington Post,Platelet-rich plasma for rotator cuff tears: Washington Post’s story gave us aches and pains,3,5
+story_reviews_00403,CNN,"CNN can’t resist lure of early-phase ALS stem cell research, but keeps tone moderate",4,8
+story_reviews_00404,Bloomberg,Bloomberg story on fiber benefits hinges on unpublished data from a private fitness app,4,6
+story_reviews_00405,The Wall Street Journal,Texting to ‘prevent heart attacks:’ WSJ overstates scope of study,4,7
+story_reviews_00406,Time,It’s never OK to use ‘groundbreaking treatment for strokes’ when it’s never been tested in people,4,6
+story_reviews_00407,The Washington Post,Inducing at 39 weeks: Washington Post story mystifies more than clarifies,3,6
+story_reviews_00408,Associated Press,Google Glass for autism: AP story is shortsighted on evidence,3,6
+story_reviews_00409,CBSNews.com,CBS News story on Alzheimer’s treatment follows familiar formula,2,3
+story_reviews_00410,US News & World Report,U.S. News & World Report story on proton beam radiation left out the evidence,4,8
+story_reviews_00411,NBCNews.com,NBC News takes level-headed approach covering ‘Jimmy Carter drug’ for lung cancer,4,8
+story_reviews_00412,Health Day,Colon cancer screening news: HealthDay’s story missed opportunity to go beyond news release,4,7
+story_reviews_00413,Reuters,Independent source and costs: All that’s missing from otherwise solid Reuters story on Victoza,4,8
+story_reviews_00414,Slate,Several errors mar Slate’s story on antidepressant use in kids,2,4
+story_reviews_00415,NPR,Scientist’s quest to fight cancer: Captivating story from NPR overlooked limitations,3,6
+story_reviews_00416,The Philadelphia Inquirer,Thorough story on underuse of new ovarian cancer tests needed a few more numbers,4,8
+story_reviews_00417,The Wall Street Journal,WSJ story speculates about benefits of non-existent ‘polypill’ to treat age-related diseases,1,2
+story_reviews_00418,Vox,Thorough and informative: Vox’s story on stem cell therapy for multiple sclerosis,5,9
+story_reviews_00419,STAT,Well done: STAT story on extended use of aromatase inhibitors for breast cancer,5,9
+story_reviews_00420,The Guardian,Guardian hypes possible blood test for depression as ‘breakthrough’,2,3
+story_reviews_00421,Medical Daily,Medical Daily story on stem cells for stroke needed injection of independent viewpoints,3,5
+story_reviews_00422,Health Day,More succinct data needed in HealthDay story on lowering catheter-associated urinary tract infection rates,4,5
+story_reviews_00423,Reuters,Reuters story on new drug for excessive sweating was less informative than the news release,2,3
+story_reviews_00424,The Wall Street Journal,WSJ story on eczema drug trials bereft of study design details,3,6
+story_reviews_00425,The Guardian,Research on statins for breast cancer: The Guardian mischaracterizes results as possible ‘valuable’ treatment,2,4
+story_reviews_00426,Associated Press,AP story on chest-protecting athletic gear skims over evidence,3,4
+story_reviews_00427,FoxNews.com,"With no apparent news hook, it’s unclear why Fox News is discussing embryo screening",2,3
+story_reviews_00428,The Wall Street Journal,WSJ’s look at apps and wearables for ‘text neck’ takes a measured approach,4,7
+story_reviews_00429,CBSNews.com,CBS News story hypes unproven stem cell treatment for spinal cord injury,2,3
+story_reviews_00430,The Philadelphia Inquirer,New surgical method for uterine fibroids gets thorough look by Inquirer,4,8
+story_reviews_00431,NBCNews.com,"Except for presidential anecdote, NBC story on new melanoma drug was well-balanced",5,9
+story_reviews_00432,The Guardian,"Guardian predicts end to insulin shots based on rehashed news release, mouse research",2,3
+story_reviews_00433,Reuters,Reuters story on oral insulin trial needed sources beyond drug company CEO,3,5
+story_reviews_00434,Reuters,Reuters jumps the gun on 12-patient trial to test safety of ‘magic mushrooms’,3,6
+story_reviews_00435,NPR,Deep brain stimulation for dementia: NPR’s positive tone not matched by evidence,2,4
+story_reviews_00436,CBSNews.com,CBS’s same-day hip replacement story makes it sound like a new procedure,2,4
+story_reviews_00437,NPR,Higher BMI is healthier? NPR story makes well-documented ‘obesity paradox’ sound new,3,4
+story_reviews_00438,Time,Fruit and breast cancer risk: TIME leaves out key data details,3,3
+story_reviews_00439,NBCNews.com,‘Facelift in a bottle:’ Incomplete NBC coverage reads too much like the news release,2,4
+story_reviews_00440,The New York Times,‘Second skin’ needs a second look: Times coverage thin on evidence for new wrinkle approach,3,6
+story_reviews_00441,Health Day,HealthDay story wisely includes harms of nocturia drug for older adults,4,8
+story_reviews_00442,Time,‘Eat this carb and you won’t gain weight’–TIME story leaves readers hungry,3,4
+story_reviews_00443,Vox,Vox knocks it out of the park with well-done story on new device for menstrual pain,5,9
+story_reviews_00444,NPR,"Online program to prevent depression: Solid effort by NPR, though a key limitation was overlooked",3,5
+story_reviews_00445,Los Angeles Times,LA Times story mischaracterizes studies on intestinal microbiome,3,3
+story_reviews_00446,The Wall Street Journal,"Personal anecdotes overwhelm cautionary details in WSJ story on ayahuasca, a Peruvian hallucinogenic concoction",4,7
+story_reviews_00447,Newsweek,"With no discussion on limits of animal research, Newsweek story adds to hype on gene therapy",3,6
+story_reviews_00448,CBSNews.com,"Strong on sources, weak on data: CBS story on using marijuana for painkiller addictions",3,5
+story_reviews_00449,Medical Daily,Medical Daily story on Mediterranean diet study mostly echoes news release,3,4
+story_reviews_00450,ABCNews.com,"ABC joins bandwagon, puts rosy spin on stem cell therapy, this time for muscular dystrophy",2,3
+story_reviews_00451,Reuters Health,Reuters Health story wisely notes limitations of NEJM study on treating mini-strokes,3,5
+story_reviews_00452,NBCNews.com,NBC story built around one patient’s amazing stroke recovery; skimps on data suggesting result is unusual,2,3
+story_reviews_00453,The Boston Globe,"Globe story on experimental autism treatment is all anecdote, no data",3,4
+story_reviews_00454,The Philadelphia Inquirer,Philly physician Q&A hits many key points on newer allergy treatments,4,7
+story_reviews_00455,Health Day,HealthDay story overstates scope of mammography screening study in younger women,2,2
+story_reviews_00456,BuzzFeed,BuzzFeed oversells benefits of experimental technology used on paralyzed man,4,5
+story_reviews_00457,NBCNews.com,"Solid effort by NBC on saturated fat study, though story lacked hard numbers on findings",5,6
+story_reviews_00458,The Washington Post,WaPo story generalizes findings of small study on mice to pregnant women,2,2
+story_reviews_00459,CBSNews.com,Aspirin report from CBS doesn’t go much beyond the news release,4,5
+story_reviews_00460,STAT,An array of sources make this STAT story on aspirin task force recommendations very strong,5,8
+story_reviews_00461,CBSNews.com,Walnut-cholesterol study needed more scrutiny in CBS story,3,4
+story_reviews_00462,Reuters,Stem cell therapy for heart failure: Reuters story covers most of the bases,4,7
+story_reviews_00463,NBCNews.com,"‘Baby deadline test’ story on NBC News: heavy on anecdotes, light on evidence",2,4
+story_reviews_00464,Health Day,Acupuncture for hot flashes in breast cancer patients: Story left out past study findings,3,5
+story_reviews_00465,Time,Blood tests for concussions: TIME leaves out key details on study results,3,5
+story_reviews_00466,The Washington Post,WaPo leans hard on news release for story on meditation and back pain,4,7
+story_reviews_00467,US News & World Report,Rehab needed for U.S. News & World Report story on cardiac rehab,3,4
+story_reviews_00468,The Wall Street Journal,"Just in time for Easter, bunny research reported as evidence of broccoli’s benefits",2,3
+story_reviews_00469,Los Angeles Times,"Quitting cold turkey–strong coverage from LA Times, except for lack of independent sources",4,7
+story_reviews_00470,NPR,NPR trend piece on fluoride treatments in adults should have drilled into hard evidence,4,6
+story_reviews_00471,FoxNews.com,Fox News story on gastric balloon: more superficial news that reads like paid content,2,3
+story_reviews_00472,CBSNews.com,CBS story on stem cell surgery for cataracts kept hype in check but lacked key study details,4,7
+story_reviews_00473,FoxNews.com,Fox News story on air quality device reads like sponsored content,2,4
+story_reviews_00474,CNN,CNN story on fasting diet study veers into clickbait territory,3,5
+story_reviews_00475,CNN,False balance in CNN coverage of female sexual dysfunction: anecdotes given equal weight as systematic evidence review,2,3
+story_reviews_00476,Reuters,Interesting but evidence-free story on ibuprofen skin patch,3,5
+story_reviews_00477,BuzzFeed,Vaginal ring for HIV prevention: a few details would have elevated good coverage to great,3,6
+story_reviews_00478,The Wall Street Journal,"Informative, intelligent coverage of osteoporosis drug tradeoffs",5,8
+story_reviews_00479,Health Day,Acupuncture for fibromyalgia: a few small details would’ve improved a strong story,4,8
+story_reviews_00480,Associated Press,Good AP story well told about research to help preemies,3,6
+story_reviews_00481,FoxNews.com,ADHD treatment news via lone anecdote more advertising than journalism,1,1
+story_reviews_00482,BuzzFeed,Independent voices boost coverage of potential opioid addiction treatment,4,7
+story_reviews_00483,Reuters Health,Outside commentary adds clarity to story on potential jet lag therapy,5,9
+story_reviews_00484,CNN,Story on light-based jet lag research goes dark on some key issues,3,5
+story_reviews_00485,The Wall Street Journal,"Excellent sourcing, but questionable anecdotes, for WSJ piece on same-day hip replacement",2,4
+story_reviews_00486,The New York Times,Transferring Mom’s bacteria to C-section babies — but what if the bugs aren’t all friendly?,5,7
+story_reviews_00487,NPR,How big is the reduction in breast cancer risk linked to a high-fiber diet? 16 percent or 0.2 percentage point?,3,3
+story_reviews_00488,CBSNews.com,Multiple perspectives elevate CBS coverage of diet-breast cancer link,3,4
+story_reviews_00489,STAT,Sexy but not sensational: STAT strikes the right balance on stem cell diabetes approach,4,7
+story_reviews_00490,The Boston Globe,New drug candidate yields “significant weight loss” — but what does that mean?,3,6
+story_reviews_00491,Reuters Health,"Saturday sleep-ins help prevent diabetes? Small, preliminary study got more attention than it deserved",4,5
+story_reviews_00492,CBSNews.com,“Just add water” for student weight loss? Strong CBS report missed on costs and study limitations,4,6
+story_reviews_00493,The Guardian,Stem cells for MS: “remarkable” testimonials risk raising false hopes,2,3
+story_reviews_00494,US News & World Report,Weak story on possible new cancer approach passes along news release claims uncritically,2,3
+story_reviews_00495,The New York Times,"Thorough, thoughtful coverage of Task Force’s final mammogram recommendations",5,9
+story_reviews_00496,The Washington Post,Informative report on mammogram recommendations could have quantified lives saved,4,7
+story_reviews_00497,The Guardian,"The Guardian’s bad hair day: No, cortisol in hair can’t “reveal future mental health risk” in children",2,2
+story_reviews_00498,FoxNews.com,Fox story advertises unproven stem cell therapy for COPD,1,2
+story_reviews_00499,Health Day,US News “Best Diets” release rehashed as HealthDay story,2,3
+story_reviews_00500,NPR,Tacos and neural tube defects: NPR deftly explains the connection,4,7
+story_reviews_00501,Health Day,Newer blood pressure meds “as good as old ones” — but at doing what exactly?,3,5
+story_reviews_00502,The Washington Post,A gloss over costs in coverage of competing blood pressure meds — but also some strengths,4,8
+story_reviews_00503,The New York Times,Got yoga? Generally thorough Times report doesn’t quantify size of bone health benefits,4,7
+story_reviews_00504,The New York Times,Times overstates risks of planned vs. unplanned C-sections,4,7
+story_reviews_00505,The Wall Street Journal,WSJ reports: Milk collected at night makes mice sleepy,3,4
+story_reviews_00506,Health Day,"Marijuana oil and epilepsy: HealthDay underscores perils of uncontrolled, unblinded studies",4,7
+story_reviews_00507,The Washington Post,Post lays out limitations of study showing longer survival with breast cancer surgery,4,7
+story_reviews_00508,CBSNews.com,CBS cures two diseases in one 400-word story,1,2
+story_reviews_00509,FoxNews.com,"Fox offers balanced look at infertility treatment alternative, but why is this news now?",3,6
+story_reviews_00510,The Philadelphia Inquirer,A device to help people with panic attacks breathe easier? Inquirer gives readers the low-down,5,9
+story_reviews_00511,The Washington Post,Should light therapy be recommended for depression in general — not just in winter?,4,6
+story_reviews_00512,CNN,Could coffee “literally be a lifesaver”?,3,4
+story_reviews_00513,STAT,Will drinking coffee extend your life? STAT delivers a 5-star answer,5,8
+story_reviews_00514,Health Day,HealthDay carefully describes link between breastfeeding and preemie eye disease,5,5
+story_reviews_00515,The Wall Street Journal,"WSJ whiffs on meaningful aspects of new melanoma drug approval — including $17,600/month price tag",2,3
+story_reviews_00516,The Boston Globe,Coverage of “huge achievement” reported at news conference lacked context and a restraining voice,3,4
+story_reviews_00517,The Philadelphia Inquirer,Get paid to take your pills? Strong Inquirer report covers all the ins and outs,5,10
+story_reviews_00518,Health Day,Have better diets “saved more than one million people from dying”?,4,6
+story_reviews_00519,Associated Press,Uneven coverage of web-based suicide prevention program for doctors,3,5
+story_reviews_00520,NPR,Textured look at one health system’s relentless suicide prevention efforts,4,7
+story_reviews_00521,The Boston Globe,Coverage of virus-based cancer treatment skimps on cautions and key outcomes,3,6
+story_reviews_00522,Time,Is sugar “definitely toxic”?,5,7
+story_reviews_00523,The New York Times,Thorough look at underuse of long-term reversible contraceptives,5,9
+story_reviews_00524,Reuters,News release-based story on cancer drug lacks most of what readers need,2,4
+story_reviews_00525,CBSNews.com,Optimistic coverage of “portable gluten test” lacks some key context,3,5
+story_reviews_00526,US News & World Report,Evidence overstated in coverage of drug to reduce blood transfusions,4,7
+story_reviews_00527,The New York Times,Times explores impact of integrated care model for schizophrenia treatment,4,7
+story_reviews_00528,Vox,How good is the flu shot? Vox delivers an exemplary answer,5,10
+story_reviews_00529,Los Angeles Times,"“Wine can help” those with type 2 diabetes, says LA Times, but benefits aren’t quantified (and are actually quite small)",3,5
+story_reviews_00530,The Wall Street Journal,Careful look at tradeoffs involved with double knee replacement,5,9
+story_reviews_00531,Health Day,Kids after cancer treatment? HealthDay breaks down evidence on ovarian transplant procedure,4,8
+story_reviews_00532,FoxNews.com,The blind shall “see”: Fox promotes new visual aid with one woman’s glowing testimonial,3,5
+story_reviews_00533,The New York Times,Optimal balance of competing views on value of CT heart scans,4,8
+story_reviews_00534,The Boston Globe,Deep dive into the ethics and evidence underlying genetic testing in depression treatment,5,9
+story_reviews_00535,US News & World Report,US News story confused about difference between rats and people,1,1
+story_reviews_00536,The Wall Street Journal,Home birth vs. hospital: Strong WSJ evaluation of new UK guidelines,4,8
+story_reviews_00537,Associated Press,A test that identifies women with breast cancer who can “skip chemo”? AP thoroughly analyzes the claim,5,9
+story_reviews_00538,NPR,Ketamine for depression: NPR coverage leans too heavily on proponents,3,6
+story_reviews_00539,The New York Times,"With just 226 words, NYT can’t deliver needed context on Alzheimer’s agitation study",3,5
+story_reviews_00540,FoxNews.com,A bowlful of ‘super berry’ claims backed by zero evidence,2,3
+story_reviews_00541,NPR,Texting your way to heart health? NPR thoroughly examines the evidence,5,8
+story_reviews_00542,Chicago Tribune,Useful details in reporting on vaccine treatment for precancerous cervical lesions,0,7
+story_reviews_00543,The Wall Street Journal,Ginger for allergies? Pretty good brief about a mouse study is missing a few key elements,4,6
+story_reviews_00544,Reuters,A diabetes drug that “slashes deaths 32 pct” — what does that really mean?,3,6
+story_reviews_00545,NPR,"Strong overall, NPR report on aspirin for heart protection would have benefited from more numbers",4,7
+story_reviews_00546,The Washington Post,Nuanced portrait of evidence on prevention benefits of vitamin D,5,9
+story_reviews_00547,Time,Resveratrol “may slow Alzheimer’s”? Not really,2,3
+story_reviews_00548,CNN,"Over-the-top headline aside, CNN frames resveratrol/Alzheimer’s study in cautious, accurate language",5,8
+story_reviews_00549,Bloomberg,Bloomberg “liquid biopsy” story nods to “skepticism” in headline,4,7
+story_reviews_00550,Reuters,Reuters adds some cold water to direct-to-consumer ‘liquid biopsy’,5,10
+story_reviews_00551,Newsweek,Magic mushrooms for mental health? Shaky basis for story’s proposed “‘paradigm shift”,3,6
+story_reviews_00552,The Philadelphia Inquirer,"With focus on one patient, story manages to convey complexity of T-cell therapy for leukemia",4,8
+story_reviews_00553,Reuters Health,Why are so few women being treated for menopause symptoms? “Rational choice” not high on this story’s list of answers,3,5
+story_reviews_00554,NBCNews.com,“Sleep Fights Colds”? Study author suggests headline flunks Methodology 101,3,4
+story_reviews_00555,Reuters,Stem cells for spinal cord injury: story lacks detail on how improvements were defined and measured,3,4
+story_reviews_00556,Health Day,Acupuncture for hot flashes: HealthDay strong on placebo effect discussion but missing other details,3,5
+story_reviews_00557,Reuters Health,"Harms, limitations explored in Reuters Health’s aspirin/colon cancer coverage",5,8
+story_reviews_00558,The Wall Street Journal,WSJ fills holes left by incomplete news release on beta-blockers and ovarian cancer,5,8
+story_reviews_00559,Vox,"Reader question on OTC pain relievers generates thorough, evidence-based response",5,9
+story_reviews_00560,The Wall Street Journal,"Should you track your fat with a whole-body scan? Many experts would say no, but WSJ coverage lacked a critical voice",3,7
+story_reviews_00561,The New York Times,"Can new psychotherapy help with deep, long-lasting grief? It’s “complicated,” says The Times",3,6
+story_reviews_00562,NPR,Video games as medicine? Sourcing a strong point in coverage of regulatory aspects,2,4
+story_reviews_00563,Reuters Health,Strong report on study of broader multigene breast cancer testing,5,8
+story_reviews_00564,The Washington Post,FDA approves first computer-based dementia assessment aid; thorough Post report falls just short on key aspects of coverage,2,4
+story_reviews_00565,Health Day,High score for HealthDay coverage of “scoring system” for colonoscopy candidates,4,7
+story_reviews_00566,The Boston Globe,Important Alzheimer’s topic needed a second source for context,2,3
+story_reviews_00567,FoxNews.com,FoxNews’ “Lasering Your Lady Parts” – 1 MD & 13 “cured” patients,2,4
+story_reviews_00568,The Washington Post,“Surprising news” about teens & marijuana “all good” – really?,1,1
+story_reviews_00569,The Wall Street Journal,WSJ gives no green light for red palm oil as health aid,5,10
+story_reviews_00570,Reuters,Too soon for story to say that game app could help people with schizophrenia,1,1
+story_reviews_00571,Health Day,"Solid reporting, but broader ethical/medical questions not addressed",4,8
+story_reviews_00572,The Washington Post,Story’s “one-two punch” for breast cancer could leave some women knocked out by side effects,3,5
+story_reviews_00573,Slate,Evidence-based message on HPV vaccine would have benefited from more specifics,3,5
+story_reviews_00574,The Wall Street Journal,WSJ business story on Alzheimer’s drugs missed key aspects of health angle,3,5
+story_reviews_00575,FoxNews.com,A pill that neutralizes gluten? Fox rehash of a CBC story reflects polluted health news stream,1,1
+story_reviews_00576,FiveThirtyEight,"Can you jog away from an early grave? This story gives a well-supported, evidence-based answer",4,6
+story_reviews_00577,Health Day,Strong look at evidence underlying saliva test for Alzheimer’s,3,6
+story_reviews_00578,Time,Saliva test for Alzheimer’s? Bare-bones report misses a host of concerns,1,1
+story_reviews_00579,The Wall Street Journal,Thoughtful and thorough coverage on prenatal tests’ ability to find cancer in mothers,5,8
+story_reviews_00580,CBSNews.com,Prenatal testing finds mother’s cancer — but CBS lost an opportunity to explain research’s broader relevance,2,3
+story_reviews_00581,NBCNews.com,Costs and risks spelled out clearly in NBC report on statins,4,7
+story_reviews_00582,The New York Times,Comprehensive coverage of two new statin studies,5,8
+story_reviews_00583,The Wall Street Journal,Need to shine a better light on after-sun products,3,5
+story_reviews_00584,The New York Times,"Business story on Entresto, newly approved heart failure drug, capably covers most of the health implications",5,9
+story_reviews_00585,Health Day,Problems with evidence and anatomy in coverage of coronary calcium test,2,4
+story_reviews_00586,The Wall Street Journal,Bariatric surgery for type 2 diabetes: informative WSJ report needed cost and complications info,3,5
+story_reviews_00587,Newsweek,Story about “organ-on-a-chip” benefits could have used an independent voice,3,6
+story_reviews_00588,Vox,Strong report questions effectiveness of breast cancer screening — but needed a discussion of study limitations,4,8
+story_reviews_00589,Reuters,Transvaginal ultrasound to confirm placement of Essure device: Story based on a Bayer news release offers little information of value,2,3
+story_reviews_00590,Reuters Health,Benefits of readmission to same hospital for post-op complications: Coverage lacking in critical evaluation,2,3
+story_reviews_00591,Health Day,"Report on stroke clot-removal guidelines emphasizes need for careful patient selection, care coordination",4,7
+story_reviews_00592,CBSNews.com,"Report on “immersive” colonoscopy features lots of flash, but few evidence-supported facts",2,3
+story_reviews_00593,Time,"Fiber and your gut bacteria: coverage of small, preliminary study raises many questions, offers few answers",3,5
+story_reviews_00594,FoxNews.com,Nonsense masquerading as news in Fox coverage of “cancer-fighting spices”,2,2
+story_reviews_00595,Los Angeles Times,Waiting too long to challenge claims of “perfect accuracy” in a pancreatic cancer test,3,5
+story_reviews_00596,Houston Chronicle,"Harms, limitations missing from news release-based coverage of pancreatic cancer test",2,4
+story_reviews_00597,NBCNews.com,Enthusiasm for “100% accurate” pancreatic cancer test does not reflect limited evidence quality,2,4
+story_reviews_00598,US News & World Report,Why is U.S. News allowing a Cleveland Clinic neurosurgeon to promote a device in its health news pages?,2,3
+story_reviews_00599,The Washington Post,WaPo hypes diet that “reboots” the body and “reduces cancer risk”; offers no supporting evidence,0,0
+story_reviews_00600,The New York Times,Compelling tale of heart innovation would have benefited from a few more details,4,7
+story_reviews_00601,CNN,1st half of story over promotes surgery-free appendicitis option,4,7
+story_reviews_00602,The Washington Post,Story on speculative metformin health benefits needed a nod to potential harms,4,7
+story_reviews_00603,Reuters Health,Diet and exercise during pregnancy: benefits-focused discussion needed a bit more balance on harms,3,4
+story_reviews_00604,The New York Times,"A first-person account of insomnia therapy focusing on “data, not pills”",4,7
+story_reviews_00605,Reuters,"A diabetes drug study, and resulting news coverage, reflect problems with American health care",3,6
+story_reviews_00606,The Philadelphia Inquirer,Inquirer emphasizes alternatives to brain games like Lumosity,4,7
+story_reviews_00607,NPR,In search of better back pain treatment: NPR guides us to the right destination (with a few detours along the way),4,7
+story_reviews_00608,CBSNews.com,Antidepressants in pregnancy: absolute rates of harm would have improved risk message,3,5
+story_reviews_00609,NBCNews.com,"Incomplete, fear-mongering message from NBC’s “diet may kill prostate cancer survivors”",3,3
+story_reviews_00610,The Wall Street Journal,WSJ shines light on harms of whole-brain radiation for cancer that spreads to the brain,5,7
+story_reviews_00611,Bloomberg,Keytruda and colon cancer: coverage of benefits not balanced with harms and cost info,3,6
+story_reviews_00612,The Washington Post,Survival statistic unbalances coverage of virus-based melanoma therapy,3,5
+story_reviews_00613,NPR,Waiting to clamp the umbilical cord — NPR carefully balances discussion of benefits and harms,4,6
+story_reviews_00614,USA Today,Coverage of delayed umbilical cord clamping omits possible harms to baby and an important study limitation,4,6
+story_reviews_00615,Health Day,Not enough women getting bone scans for osteoporosis? Incomplete story fails to dig deeper than the news release,2,2
+story_reviews_00616,The New York Times,Predicting Alzheimer’s: What two new studies add and how the Times covered them,3,6
+story_reviews_00617,CBSNews.com,Weak CBS story on IBS test has same problems as related med center news release,1,2
+story_reviews_00618,The Washington Post,"Post coverage of new lung cancer test misses on caveats, costs, and harms",3,4
+story_reviews_00619,CBSNews.com,Rosy CBS report on vitamin study lacks meaningful description of skin cancer impact,3,6
+story_reviews_00620,Associated Press,"Balanced, complete evaluation of study on vitamin supplements for skin cancer prevention",5,9
+story_reviews_00621,The Wall Street Journal,Mediterranean diet and cognitive function: Solid WSJ report would’ve benefited from cost info,4,7
+story_reviews_00622,NPR,Bold claims for migraine treatment are based on opinions and anecdote in this story,2,4
+story_reviews_00623,The Wall Street Journal,"Balanced, insightful report on tradeoffs of treating premature babies at edge of survival",5,8
+story_reviews_00624,The New York Times,Unbalanced Times column reflects coffee confirmation bias,3,5
+story_reviews_00625,The New York Times,The Times offers informative breakdown on the value of lung cancer screening,5,9
+story_reviews_00626,The Philadelphia Inquirer,Philadelphia Inquirer highlights FDA “loophole” allowing use of heart device without testing,5,9
+story_reviews_00627,FoxNews.com,"Fox story points to key limitations of study on massage therapy for infertility, but misses high study dropout rate",4,7
+story_reviews_00628,The New York Times,Over-emphasis on fructose obscures larger science-based message: too much of any sugar is bad for you,2,2
+story_reviews_00629,FiveThirtyEight,Coverage of “better” HIV self test doesn’t support the claim,3,5
+story_reviews_00630,FoxNews.com,Fox story fails to dent dubious hair-growth helmet claims,4,7
+story_reviews_00631,The New York Times,The Times shines in coverage of new injection for double chins,5,10
+story_reviews_00632,The Washington Post,Post coverage of chin fat drug lacks key specifics and an independent perspective,3,6
+story_reviews_00633,CBSNews.com,More incomplete coverage on the benefits of new cholesterol drugs,3,6
+story_reviews_00634,The Philadelphia Inquirer,"Feel-good story about CPR is long on emotion, short on sobering reality of low success rates",2,3
+story_reviews_00635,Bloomberg,Potential harms missing in coverage of Color Genomics cancer test,4,7
+story_reviews_00636,Health Day,Aspirin for cancer prevention: A few small details would make a big difference in this story,3,5
+story_reviews_00637,Reuters,"Story on new melanoma drug combo neglects to mention $250,000 price tag",2,3
+story_reviews_00638,FoxNews.com,"Labeled as “news”, one MD’s opinion on pap smear/pelvic exam guidelines",2,2
+story_reviews_00639,The Washington Post,Autism brain imaging story didn’t deliver clear picture,2,3
+story_reviews_00640,The Wall Street Journal,"New skin cancer radiation treatment – 5 star story, but….",5,9
+story_reviews_00641,US News & World Report,More likely to frighten than inform,3,5
+story_reviews_00642,The Boston Globe,Managing the stress of cancer,2,3
+story_reviews_00643,The New York Times,Learning to Say No to Dialysis,4,8
+story_reviews_00644,CBSNews.com,The MIND diet: 10 foods that fight Alzheimer’s (and 5 to avoid),2,3
+story_reviews_00645,NPR,Why Doctors Are Trying A Skin Cancer Drug To Treat A Brain Tumor,3,6
+story_reviews_00646,The New York Times,Experts Back Angelina Jolie Pitt in Choices for Cancer Prevention,4,7
+story_reviews_00647,HealthDay,Vitamin D supplements may slow prostate cancer,3,5
+story_reviews_00648,,"Artificial sweetener may help treat aggressive cancers, study finds",2,3
+story_reviews_00649,The Wall Street Journal,Men Are New Target for Osteoporosis Treatment,3,6
+story_reviews_00650,CNN,"E-cigarettes: Helping smokers quit, or fueling a new addiction?",4,7
+story_reviews_00651,USA Today,Non-prescription allergy relief: what you need to know,4,7
+story_reviews_00652,TIME,A Simple 3-Part Test May Predict Alzheimer’s,3,5
+story_reviews_00653,AP Associated Press,Breast biopsy accuracy is questioned in experimental study,4,6
+story_reviews_00654,HealthDay,"Manual Clot Removal After Heart Attack May Not Help, Could Harm",5,9
+story_reviews_00655,The Wall Street Journal,Can Personal Air Purifiers Keep Cold and Flu Bugs Away?,4,8
+story_reviews_00656,AP Associated Press,Studies boost hopes for new class of cholesterol medicines,4,8
+story_reviews_00657,The New York Times,Tests of Cholesterol Drugs Offer Hope of Reducing Heart Attacks and Strokes,5,10
+story_reviews_00658,,Stress Test or 3-D Scan? And the Best Heart Exam Is …,4,7
+story_reviews_00659,The New York Times,A Simple Flashcard Test to Detect Concussions,3,6
+story_reviews_00660,CNN,College kids make robotic arms for children without real ones,2,3
+story_reviews_00661,Los Angeles Times,"Vegetarians who ate fish had lowest colorectal cancer risk, study says",2,2
+story_reviews_00662,Reuters,Electric ‘noise’ treats Parkinson’s symptoms,3,5
+story_reviews_00663,NPR,The Gentle Cesarean: More Like A Birth Than An Operation,4,7
+story_reviews_00664,NPR,Walk A Little Faster To Get The Most Out of Your Exercise Time,4,8
+story_reviews_00665,Los Angeles Times,Intent on surviving another decade? Ace this test,3,6
+story_reviews_00666,,How a New Treadmill Test Predicts ‘Survival of the Fittest’,2,3
+story_reviews_00667,AP Associated Press,Young girl’s story may lead Idaho to approve marijuana oil,2,4
+story_reviews_00668,The Wall Street Journal,Sex in Old Age May Lead to a Sharper Mind,2,2
+story_reviews_00669,The New York Times,Should Pregnant Women Eat More Tuna?,4,6
+story_reviews_00670,Health Day,Nerve Treatment Via Nose Shows Promise Against Migraines,2,4
+story_reviews_00671,,App ‘trains’ your brain to see better,4,7
+story_reviews_00672,Health Day,"Weight-Loss Surgery May Lower Some Pregnancy Complications, Raise Others",3,6
+story_reviews_00673,Reuters Health,Phone support can help ease postpartum depression,4,7
+story_reviews_00674,The Washington Post,Lay off the mega-doses of Vitamin D,4,7
+story_reviews_00675,Los Angeles Times,"Medical mystery: Men who take frequent saunas live longer, study shows",3,6
+story_reviews_00676,,Skin patch may protect against life-threatening peanut allergy,3,6
+story_reviews_00677,,Gilead’s Pill Can Stop HIV. So Why Does Almost Nobody Take It?,3,5
+story_reviews_00678,HealthDay,‘Mindfulness’ May Help Ease Sleep Problems for Seniors,5,9
+story_reviews_00679,Reuters,Gradual smoking cessation may be possible with nicotine addiction pill,4,7
+story_reviews_00680,The New York Times,Medicine Given Even Before Smokers Are Ready to Quit Is Found to Help Them,4,7
+story_reviews_00681,AP Associated Press,Researchers test device to help deaf children detect sounds,3,6
+story_reviews_00682,The Wall Street Journal,"In Image-Guided Operating Suites, Surgeons See Real-Time MRI, CT Scans",2,4
+story_reviews_00683,USA Today,Alcohol good for your heart? Evidence is evaporating,4,6
+story_reviews_00684,The Washington Post,"Chemoprevention works against breast cancer, but these drugs are not popular",5,10
+story_reviews_00685,FiveThirtyEight,It’s Hard To Know Where Gluten Sensitivity Stops And The Placebo Effect Begins,4,6
+story_reviews_00686,Los Angeles Times,"For most strokes, clot-retrieval device boosts effectiveness of drug treatment",4,8
+story_reviews_00687,The Washington Post,"Before you conclude that you’re gluten-sensitive, consider FODMAPs foods",2,3
+story_reviews_00688,,Can elderberry help treat colds and flu?,3,5
+story_reviews_00689,Reuters,"Achillion, Gilead drug cocktail cures hepatitis C in six weeks",2,2
+story_reviews_00690,TIME,"Your IUD and Implant Last Much Longer Than They Claim, Study Says",2,4
+story_reviews_00691,,New treatment instantly relieves knee pain,2,3
+story_reviews_00692,,10 million wisdom teeth are removed each year. That might be way too many.,4,8
+story_reviews_00693,,How This Woman Used Yoga to Avoid Back Surgery,3,5
+story_reviews_00694,BuzzFeed,Mail-Order Viruses Are The New Antibiotics,3,6
+story_reviews_00695,The New York Times,Can Attention Deficit Drugs ‘Normalize’ a Child’s Brain?,3,6
+story_reviews_00696,The Boston Globe,Five Nobel laureates backing antiaging dietary supplement,3,6
+story_reviews_00697,,Ending the multivitamin debate: Why taking one may actually save your life,1,1
+story_reviews_00698,Los Angeles Times,"Placebo effect influenced by perceived cost, study finds",4,7
+story_reviews_00699,Reuters,Trial finds GSK Ebola shot is safe and provokes immune response,4,8
+story_reviews_00700,Reuters Health,Curcumin may help lower inflammation in metabolic syndrome,3,6
+story_reviews_00701,The Washington Post,Insulin spray may be helpful for people with early dementia,2,3
+story_reviews_00702,,Nasal spray shows promise as treatment for Alzheimer’s disease,2,3
+story_reviews_00703,The Wall Street Journal,Breathing for Your Better Health,2,4
+story_reviews_00704,,Double Chin? There May Be a Drug for That,2,2
+story_reviews_00705,NPR,DNA Blood Test Gives Women A New Option For Prenatal Screening,4,7
+story_reviews_00706,Newsweek,Day Tripping: Benefits Seen in Psychedelics,4,6
+story_reviews_00707,CNN,Is proton therapy the ‘magic bullet’ for cancer?,1,1
+story_reviews_00708,HealthDay,Study Hints That ‘Video Feedback’ Therapy May Help Curb Autism,2,2
+story_reviews_00709,The Wall Street Journal,Researchers in Italy Found Bergamot Lowered Blood Cholesterol,5,9
+story_reviews_00710,,"Drinking beetroot juice reduces high blood pressure, trial shows",3,5
+story_reviews_00711,The Philadelphia Inquirer,Mohs surgery: Minimal scars vs. high cost,4,8
+story_reviews_00712,NPR,"When Bariatric Surgery’s Benefits Wane, This Procedure Can Help",3,5
+story_reviews_00713,Los Angeles Times,FDA approves a device for weight loss,3,6
+story_reviews_00714,The New York Times,Blueberries May Lower Blood Pressure,2,3
+story_reviews_00715,The Washington Post,A better way to help people quit smoking?,3,5
+story_reviews_00716,HealthDay,"Vitamin D May Boost Colon Cancer Survival, Study Finds",5,6
+story_reviews_00717,USA Today,New drug Opdivo successfully ends lung cancer trial,2,4
+story_reviews_00718,HealthDay,Head Start Program Might Help Fight Childhood Obesity: Study,3,5
+story_reviews_00719,,"Add an avocado, lower your cholesterol",3,6
+story_reviews_00720,,"Eating Avocados Daily May Be Good for the Heart, Study Shows",3,6
+story_reviews_00721,,"Avocados may help lower ‘bad’ cholesterol, study finds",3,6
+story_reviews_00722,NPR,Bite Back At Bad Cholesterol: Eat An Avocado A Day,2,4
+story_reviews_00723,,Best time of the month for women to quit smoking,2,2
+story_reviews_00724,The New York Times,How Exercise Keeps Us Young,3,4
+story_reviews_00725,The Washington Post,New drug tricks metabolism into burning fat as if you’ve just finished a meal,2,4
+story_reviews_00726,Reuters,Cempra’s lead oral antibiotic meets main goal in late-stage trial,2,4
+story_reviews_00727,,SLOWDOWN IN NUMBER OF SYSTEMATIC STORY REVIEWS BECAUSE OF LOSS OF FUNDING,0,0
+story_reviews_00728,USA Today,New drugs improve options for melanoma patients,5,10
+story_reviews_00729,The New York Times,"New Drug May Help Some Asthmatics, Study Finds",4,7
+story_reviews_00730,Reuters Health,"Regeneron, Sanofi asthma drug seen as potential game changer",3,5
+story_reviews_00731,The New York Times,Seeking Clues to Heart Disease in DNA of an Unlucky Family,3,4
+story_reviews_00732,HealthDay,Wireless Pacemaker Shows Promise in Early Study,4,7
+story_reviews_00733,AP Associated Press,Gene test may help guide prostate cancer treatment,5,10
+story_reviews_00734,HealthDay,"Implanted Device May Predict Epilepsy Seizures, Study Suggests",5,8
+story_reviews_00735,TIME,Newly Discovered Hormone Could Yield New Treatment For Diabetes,3,4
+story_reviews_00736,HealthDay,Are Pricey Computer-Aided Mammograms Worth It?,4,8
+story_reviews_00737,Reuters Health,Stomach CT scans may help find osteoporosis – study,5,9
+story_reviews_00738,HealthDay,Freezing Treatment May Help Destroy Lung Tumors: Study,3,5
+story_reviews_00739,The New York Times,Walnuts for Diabetes,1,1
+story_reviews_00740,HealthDay,Is a Better Sleeping Pill on the Way?,3,6
+story_reviews_00741,Reuters Health,Experimental sleep drug may cause fewer side effects: Merck study,3,5
+story_reviews_00742,The Wall Street Journal,Can Enzymes Make the Meal?,2,4
+story_reviews_00743,HealthDay,Simple Breath Test Might Diagnose Heart Failure,3,5
+story_reviews_00744,The Washington Post,New method for hip replacement wins favor with some surgeons,3,5
+story_reviews_00745,MSNBC,"Women who ate more soy survive lung cancer better, study finds",3,3
+story_reviews_00746,AP Associated Press,"Therapy often as good as surgery for knees, study finds",4,7
+story_reviews_00747,Reuters Health,Small trial shows “brain pacemaker” may ease severe anorexia,3,6
+story_reviews_00748,HealthDay,Drugs May Help Relieve Restless Legs Syndrome,3,6
+story_reviews_00749,Reuters Health,Folic acid in pregnancy tied to lower autism risk,4,6
+story_reviews_00750,Los Angeles Times,Folic acid linked to reduced risk of autism spectrum disorders,4,5
+story_reviews_00751,CNN Health,Folic acid in pregnancy may help lower autism risk,3,3
+story_reviews_00752,HealthDay,A Pill So People With Celiac Disease Can Eat Freely?,3,4
+story_reviews_00753,The Washington Post,Long-awaited stroke studies show hopeful new treatment no better than older one,5,9
+story_reviews_00754,TIME,Omega-6 Fats Linked to Increased Risk of Heart Disease,3,5
+story_reviews_00755,HealthDay,Re-Analysis Refutes Diet Guidelines Favoring Vegetable Fats,3,4
+story_reviews_00756,TIME,Yoga and the Mind: Can Yoga Reduce Symptoms of Major Psychiatric Disorders?,2,3
+story_reviews_00757,HealthDay,"For Early Cancer, Lumpectomy Beats Mastectomy for Survival: Study",3,4
+story_reviews_00758,Reuters Health,Vanda sleep drug effective in second late-stage trial,2,2
+story_reviews_00759,The New York Times,Drug Is Shown to Help Pancreatic Cancer Cases,5,9
+story_reviews_00760,HealthDay,FDA Approves 1st Skin Patch to Combat Migraines,4,7
+story_reviews_00761,The Philadelphia Inquirer,The other incontinence,4,8
+story_reviews_00762,NPR,Women With A Berry-Snacking Habit May Have Healthier Hearts,4,6
+story_reviews_00763,TIME,Berries Linked to Lower Heart Disease Among Women,3,4
+story_reviews_00764,HealthDay,"Berries May Cut Heart Attack Risk in Women, Study Says",2,3
+story_reviews_00765,HealthDay,"IUD Might Ease Heavy Menstrual Bleeding, Study Suggests",3,5
+story_reviews_00766,Reuters Health,Experimental drug may help people with bipolar disorder,3,5
+story_reviews_00767,WebMD,New Eye Test May Help Predict Risk of Glaucoma,3,4
+story_reviews_00768,NPR,Drug Fulfills Promise Of Research Into Cystic Fibrosis Gene,3,5
+story_reviews_00769,The New York Times,"Energy Drinks Promise Edge, but Experts Say Proof Is Scant",5,8
+story_reviews_00770,The Philadelphia Inquirer,New test could help diagnose Alzheimer’s disease in live patients,5,10
+story_reviews_00771,HealthDay,Treating Kidneys With Radio Waves May Ease Tough-to-Control Hypertension,3,5
+story_reviews_00772,WebMD,Beet Juice Lowers Blood Pressure,3,4
+story_reviews_00773,MSNBC,New method allows better prostate cancer testing,1,1
+story_reviews_00774,The New York Times,"In Girl’s Last Hope, Altered Immune Cells Beat Leukemia",4,8
+story_reviews_00775,The Philadelphia Inquirer,University of Pennsylvania gene therapy shows promise in eradicating some blood cancers,3,6
+story_reviews_00776,WebMD,Drug Shows Promise for Lupus Skin Conditions,3,6
+story_reviews_00777,HealthDay,"Experimental Antidepressant Appears Quick-Acting, Safe",3,6
+story_reviews_00778,The New York Times,Bigger Role Seen for Breast Cancer Drug,5,10
+story_reviews_00779,AP Associated Press,Longer tamoxifen use cuts breast cancer deaths,5,9
+story_reviews_00780,USA Today,Long-term treatment cuts breast cancer deaths,3,6
+story_reviews_00781,HealthDay,Is a Breath Test for Colon Cancer Possible?,5,9
+story_reviews_00782,WebMD,Breath Test May Detect Colon Cancer,3,4
+story_reviews_00783,USA Today,Magnets zap blues for some with depression,3,5
+story_reviews_00784,Health Day,Experimental Insomnia Drug Shows Promise,4,8
+story_reviews_00785,Health Day,Certain Arthritis Patients Fare Worse After Joint Replacement: Study,1,1
+story_reviews_00786,The Wall Street Journal,Probiotics’ Benefits May Be More Than a Gut Feeling,4,7
+story_reviews_00787,WebMD,Nanoparticles Show Potential for Treating MS,3,5
+story_reviews_00788,NBCNews.com,"New approach could treat MS, other autoimmune diseases",3,5
+story_reviews_00789,Health Day,"Meditation Might Cut Risk of Heart Attack, Stroke in Blacks",4,8
+story_reviews_00790,Time,Strongest Study Yet Shows Meditation Can Lower Risk of Heart Attack and Stroke,2,4
+story_reviews_00791,WebMD,Drug Slows Knee Osteoarthritis Progression,3,6
+story_reviews_00792,The Wall Street Journal,Centuries-Old Art of Cupping May Bring Some Pain Relief,3,6
+story_reviews_00793,WebMD,Infusing Good Cholesterol May Help Unclog Arteries,2,4
+story_reviews_00794,Reuters Health,Amgen experimental drug lowers cholesterol in mid-stage trial,3,4
+story_reviews_00795,Health Day,New Drug May Help Those Who Can’t Take Statins,3,6
+story_reviews_00796,Associated Press,Doctors debate value of ‘fringe’ heart treatment,5,9
+story_reviews_00797,USA Today,Researchers raise concerns over chelation heart study,5,9
+story_reviews_00798,WebMD,Early Autism Treatment Benefits Kids’ Brains,2,4
+story_reviews_00799,The Wall Street Journal,The Berry Essence of Fat Burning?,5,9
+story_reviews_00800,Los Angeles Times,"You are getting cooler: Hypnosis works for hot flashes, study finds",3,6
+story_reviews_00801,WebMD,Hypnosis Halts Hot Flashes for Some Women,2,3
+story_reviews_00802,Reuters Health,Israeli medical device offers new Alzheimer’s treatment,1,2
+story_reviews_00803,Associated Press,Study: Multivitamins may lower cancer risk in men,5,8
+story_reviews_00804,Reuters Health,Daily multivitamin shown to help ward off cancer in men,4,5
+story_reviews_00805,Health Day,"Epilepsy Drug Shows Promise as Weight-Loss Aid, Study Says",3,6
+story_reviews_00806,The New York Times,Options in Treating Incontinence,2,3
+story_reviews_00807,Health Day,Measuring Brain Plaques May Yield Clues to Alzheimer’s Risk,0,0
+story_reviews_00808,CNN,Cervical cancer vaccine in early stages,4,7
+story_reviews_00809,The Philadelphia Inquirer,Cervical cancer vaccine shows promise,3,5
+story_reviews_00810,Star Tribune,Covidien tools shown effective against PAD,1,2
+story_reviews_00811,The Wall Street Journal,"Tomato Helps Cut the Risk of a Stroke, Study Shows",4,5
+story_reviews_00812,CNN,Tomatoes may help reduce stroke risk,4,5
+story_reviews_00813,WebMD,Tomatoes May Lower Your Risk for Stroke,4,5
+story_reviews_00814,The Philadelphia Inquirer,A new course for concussions,4,8
+story_reviews_00815,Associated Press,Alzheimer drug shows some promise in mild disease,5,10
+story_reviews_00816,WebMD,Alzheimer’s Drug Slows Memory Decline,4,7
+story_reviews_00817,The New York Times,Drug Shows Promise in Treating a Type of Muscular Dystrophy in Boys,4,7
+story_reviews_00818,Associated Press,Benefits Seen In Hormone Use Early In Menopause,4,8
+story_reviews_00819,The Wall Street Journal,Menopause Therapy Found Less Risky,2,4
+story_reviews_00820,The Wall Street Journal,Is a 3-D Mammogram Better at Avoiding False Positives?,3,6
+story_reviews_00821,Health Day,"New Anti-Clotting Drug Bests Warfarin, Study Says",1,2
+story_reviews_00822,Health Day,New Melanoma Treatment Might Delay Cancer Progression,3,5
+story_reviews_00823,MSNBC,DNA markers may predict impotence after prostate cancer,3,4
+story_reviews_00824,Health Day,New Device May Reduce Repeat Breast Cancer Surgeries,3,6
+story_reviews_00825,Associated Press,"Study: Placebo or not, acupuncture helps with pain",5,9
+story_reviews_00826,Reuters Health,Acupuncture has limited benefit for chronic pain,3,6
+story_reviews_00827,The New York Times,"Relief for Severe Asthma, at a High Price",3,6
+story_reviews_00828,USA Today,Heart study helps save lives of young athletes,2,4
+story_reviews_00829,Associated Press,Circumcision pluses outweigh risks: Pediatricians,4,7
+story_reviews_00830,NPR,Pediatricians Decide Boys Are Better Off Circumcised Than Not,4,8
+story_reviews_00831,WebMD,Walnuts May Improve Sperm Quality in Healthy Men,4,5
+story_reviews_00832,Reuters Health,Can daily aspirin help ward off cancer?,5,7
+story_reviews_00833,WebMD,Daily Aspirin May Reduce Risk of Cancer Death,4,6
+story_reviews_00834,Detroit Free Press,U-M oversees cutting-edge trial that offers hope in fight against Lou Gehrig’s disease,5,9
+story_reviews_00835,The Washington Post,Magnetic stimulation helps some people with treatment-resistant depression,5,9
+story_reviews_00836,Reuters Health,Hormone boosts mental function in small study,4,8
+story_reviews_00837,Health Day,"Hormone May Boost Aging, Failing Brains",3,5
+story_reviews_00838,WebMD,Study: PSA Testing Cuts Worst Prostate Cancers,4,8
+story_reviews_00839,Health Day,Abandoning PSA Screening Could Cost Lives: Study,4,6
+story_reviews_00840,Time,Prostate Cancer Screening: Why Can’t Doctors Agree?,3,6
+story_reviews_00841,The Wall Street Journal,Immune-Disorder Drug Shows Promise for Alzheimer’s,4,8
+story_reviews_00842,Los Angeles Times,Fruitful news from tart cherry studies,3,3
+story_reviews_00843,The Wall Street Journal,A New Check for Heart Problems,2,3
+story_reviews_00844,Health Day,Nutrient Drink Might Boost Memory in Early Alzheimer’s: Study,4,7
+story_reviews_00845,The New York Times,A New Treatment’s Tantalizing Promise Brings Heartbreaking Ups and Downs,5,9
+story_reviews_00846,The Wall Street Journal,New Laser Aims to Zap Cellulite at the Source,3,5
+story_reviews_00847,MSNBC,Gene healing in a lotion? Researchers say they’re close,2,3
+story_reviews_00848,Reuters Health,Botox may help multiple sclerosis tremors,5,9
+story_reviews_00849,Health Day,Gel Shows Promise as Future Male Contraceptive,3,5
+story_reviews_00850,HealthDay,Newer ‘Second-Line’ Diabetes Drug May Outperform Older Meds,4,6
+story_reviews_00851,The Wall Street Journal,"Not All Calories Equal, Study Shows",4,5
+story_reviews_00852,USA Today,Low-carb diet burns the most calories in small study,5,7
+story_reviews_00853,Health Day,Brain EEG Test Might Help Spot Autism: Study,3,5
+story_reviews_00854,Reuters Health,Seaweed supplement may aid weight loss: study,5,10
+story_reviews_00855,CNN,Study questions efficacy and safety of knee injections,1,1
+story_reviews_00856,WebMD,Type 1 Diabetes Stem Cell Treatment Shows Promise,4,7
+story_reviews_00857,WebMD,Drinking Coffee May Delay Alzheimer’s Disease,3,4
+story_reviews_00858,Health Day,Blood Tests Might Help Guide Breast Cancer Care,3,6
+story_reviews_00859,The New York Times,New Epilepsy Tactic: Fight Inflammation,3,6
+story_reviews_00860,WebMD,Study: Dark Chocolate May Lower Heart Disease and Stroke Risks,5,8
+story_reviews_00861,Time,Can Aspirin Help Ward Off Skin Cancer?,3,3
+story_reviews_00862,Health Day,Common Painkillers May Help Prevent Skin Cancer: Study,4,5
+story_reviews_00863,Associated Press,Drastic method targets hard-to-treat hypertension,5,9
+story_reviews_00864,The Wall Street Journal,Long-Lasting Birth Control Cuts Pregnancy Rate,4,7
+story_reviews_00865,Health Day,New Blood Thinner May Lower Chances of Clots in High-Risk Heart Patients: FDA,2,3
+story_reviews_00866,WebMD,Chinese Herb Kudzu May Help Drinkers Cut Down,4,8
+story_reviews_00867,WebMD,Acupuncture May Be Worth a Shot for COPD,2,3
+story_reviews_00868,The Wall Street Journal,New Method Easing Preparation May Encourage Colon Checks,3,5
+story_reviews_00869,The Boston Globe,Prep-free virtual colonoscopy could be as effective as scope procedure,5,9
+story_reviews_00870,WebMD,Eggs at Breakfast May Delay Hunger,1,1
+story_reviews_00871,Los Angeles Times,Egg producers fund study confirming the health benefits of eggs,1,1
+story_reviews_00872,Reuters Health,Marijuana may ease multiple sclerosis symptoms,5,9
+story_reviews_00873,Chicago Tribune,Men’s fertility test available for home,5,9
+story_reviews_00874,Health Day,How That Glass of Red Wine Might Help You Live Longer,3,4
+story_reviews_00875,Reuters Health,Mixed message on antidepressant for hot flashes,5,10
+story_reviews_00876,USA Today,Preventive medicines can help migraine sufferers,4,7
+story_reviews_00877,Los Angeles Times,Experts issue new guidelines for preventing migraines with drugs,3,4
+story_reviews_00878,The Philadelphia Inquirer,Surgery for migraines: Help or hokum?,4,7
+story_reviews_00879,Los Angeles Times,"Alzheimer’s: New test aids early diagnosis, but worth it to know?",3,5
+story_reviews_00880,Time,Experimental Prostate Cancer Treatment Shows Promise,1,1
+story_reviews_00881,The Philadelphia Inquirer,Are breast lumps cancerous? A new device may help,3,4
+story_reviews_00882,WebMD,Thyme’s Time as Acne Remedy May Be Coming Soon,3,3
+story_reviews_00883,The New York Times,Treating Sleep Apnea Without the Mask,2,4
+story_reviews_00884,WebMD,Soy Supplements Can Cool Hot Flashes: Study,2,3
+story_reviews_00885,The Dallas Morning News,Hormone replacement therapy regains popularity,1,1
+story_reviews_00886,Health Day,"Berries, Tea May Cut Men’s Odds for Parkinson’s: Study",3,4
+story_reviews_00887,Health Day,Early Study Hints That Breast Cancer Vaccine Might Work,4,6
+story_reviews_00888,Health Day,New Scanning Technology Might Help Guide Prostate Cancer Care,2,4
+story_reviews_00889,Reuters Health,Electroacupuncture may be effective for depression: study,1,1
+story_reviews_00890,The Wall Street Journal,Bypass Less Risky Than Stent Use Over Long Term,5,9
+story_reviews_00891,Associated Press,Study sees lower death risk with bypass surgery versus angioplasty for older heart patients,4,7
+story_reviews_00892,NPR,Bypass Surgery Edges Stents For Heart Treatment,4,8
+story_reviews_00893,Los Angeles Times,Green coffee beans show potential for losing weight,3,5
+story_reviews_00894,Health Day,Could Unroasted Coffee Beans Help You Shed Pounds?,3,5
+story_reviews_00895,CNN Health,Experimental cholesterol drug results called ‘game changing’,4,7
+story_reviews_00896,Health Day,Less Invasive Hernia Procedure Easier on Patients: Study,4,6
+story_reviews_00897,WebMD,New Procedure Makes Hyperhidrosis No Sweat,2,3
+story_reviews_00898,WebMD,Topical Gel Treats Precancerous Skin Condition,1,2
+story_reviews_00899,CNN,‘Cutting’ your risk of prostate cancer,3,3
+story_reviews_00900,Health Day,Can Statins Prevent Parkinson’s Disease?,3,5
+story_reviews_00901,Reuters Health,Study suggests overall benefit from antidepressants,4,5
+story_reviews_00902,MSNBC,New melanoma treatment — a turning point against cancer?,3,5
+story_reviews_00903,Los Angeles Times,Researchers report progress in cancer immunotherapy,4,7
+story_reviews_00904,WebMD,Can Herbs Fight Asthma?,4,7
+story_reviews_00905,Reuters Health,Robotic surgeries costlier but safer: study,4,8
+story_reviews_00906,CNN Health,Experimental treatment may help food allergies,2,4
+story_reviews_00907,MSNBC,Vitamin A may slash melanoma risk,4,7
+story_reviews_00908,Health Day,Omega-3 Fatty Acids May Protect the Aging Brain,4,5
+story_reviews_00909,The Washington Post,Omega-3 oils shown as good for brain health in study involving older people,2,2
+story_reviews_00910,CNN Health,Study: Brain suffers when fish oil falls short,2,3
+story_reviews_00911,Health Day,Vitamin D3 Might Ease Menstrual Cramps,4,6
+story_reviews_00912,Health Day,Experimental Drug Shows Promise Against Type 2 Diabetes,4,6
+story_reviews_00913,Time,"I’ll Take a Sperm Test, to Go: First at-Home Male-Infertility Test Debuts",1,2
+story_reviews_00914,The New York Times,A New Approach to Treating Hair Loss,1,1
+story_reviews_00915,Health Day,Mammograms Can Save Lives of Women in Their 40s: Study,4,7
+story_reviews_00916,WebMD,New Mammogram Benefits for Women in Their 40s,2,3
+story_reviews_00917,The New York Times,Prevention: Fish Helps Reduce Risk of Polyps in Women,2,2
+story_reviews_00918,Los Angeles Times,The Healthy Skeptic: Probiotics could help in cold and flu season,5,8
+story_reviews_00919,NPR,Weight-Loss Drugs Face High Hurdles At FDA,3,6
+story_reviews_00920,Health Day,Stop-Smoking Drug May Also Curb Problem Drinking,3,5
+story_reviews_00921,The Wall Street Journal,"The Best Foods for Thought, Literally",2,2
+story_reviews_00922,CNN Health,"Patient’s own stem cells help heal heart, early research shows",4,6
+story_reviews_00923,WebMD,Scarred Hearts Healed After Heart Attack,2,3
+story_reviews_00924,USA Today,New treatment deep freezes ovarian tumors,1,1
+story_reviews_00925,Reuters Health,Tiny electrical shocks to the brain enhance memory: study,4,8
+story_reviews_00926,Health Day,"Electrical Brain Stimulation May Strengthen Memory, Study Says",4,7
+story_reviews_00927,Chicago Tribune,Inventor says new heart catheter will save lives,2,2
+story_reviews_00928,WebMD,Heart Hormone Linked to Calorie-Burning Brown Fat,3,4
+story_reviews_00929,WebMD,New Drug Treats Fibroids With Fewer Side Effects,3,6
+story_reviews_00930,Associated Press,New European pill works against uterine fibroids,3,6
+story_reviews_00931,The Wall Street Journal,FDA Approves Cystic Fibrosis Drug,3,5
+story_reviews_00932,Reuters Health,Study clouds evidence on soy and menopause,5,9
+story_reviews_00933,USA Today,Hot flash remedies: Estrogen may be the best answer,3,4
+story_reviews_00934,Health Day,Drug Duo May Help Fight Aggressive Form of Breast Cancer,3,6
+story_reviews_00935,Chicago Tribune,New implant addresses hearing loss caused by inner-ear damage,1,2
+story_reviews_00936,Reuters Health,Magnesium-rich diet may lower stroke risk: study,5,7
+story_reviews_00937,Health Day,Novel Stem Cell Treatment May Hold Promise for Type 1 Diabetes,3,4
+story_reviews_00938,MSNBC,"Nicotine patch may help improve memory, study finds",3,5
+story_reviews_00939,Time,Nicotine Patch May Improve Memory,4,5
+story_reviews_00940,WebMD,Nicotine Replacement Treatments May Not Work Long-Term,5,9
+story_reviews_00941,The New York Times,Nicotine Gum and Skin Patch Face New Doubt,4,8
+story_reviews_00942,Los Angeles Times,"Nicotine patches, gum don’t prevent relapse, study finds",3,4
+story_reviews_00943,Los Angeles Times,The Healthy Skeptic: Is caffeine an effective weight-loss aid?,5,9
+story_reviews_00944,Los Angeles Times,Red wine prevents breast cancer? I’ll drink to that!,3,4
+story_reviews_00945,Health Day,Drug Eases Gout Flare-ups in Some Patients: Study,1,2
+story_reviews_00946,The Wall Street Journal,Could a vitamin make antidepressants work better?,3,6
+story_reviews_00947,Associated Press,Debate over who needs a thyroid check in pregnancy,5,10
+story_reviews_00948,Health Day,"Spinal Manipulation, Home Exercise May Ease Neck Pain",4,8
+story_reviews_00949,CNN,Spinal tap may predict Alzheimer’s years ahead,5,9
+story_reviews_00950,Health Day,Study Looks at Deep Brain Stimulation in Bipolar Patients,4,7
+story_reviews_00951,Health Day,Music May Help Ease Pain for Anxious People,0,0
+story_reviews_00952,Reuters Health,Statins tied to lower risk of fatal prostate cancer,5,9
+story_reviews_00953,Health Day,New Blood Test May Rule Out Heart Attacks More Quickly,2,3
+story_reviews_00954,Reuters Health,DHEA hormone may help women through menopause: study,2,3
+story_reviews_00955,Reuters Health,Brain stimulation may help some stroke patients,5,9
+story_reviews_00956,WebMD,Magnet Therapy May Help Stroke Survivors Recover,4,7
+story_reviews_00957,The Wall Street Journal,Parents’ Latest Pick: Herbal Shampoos to Keep Away Lice,5,9
+story_reviews_00958,The New York Times,Treatment for Blood Disease Is Gene Therapy Landmark,4,8
+story_reviews_00959,Health Day,"Mammograms Cut Risk of Breast Cancer Death by Half, Study Finds",2,3
+story_reviews_00960,USA Today,Gene test could spare women from unnecessary radiation,4,8
+story_reviews_00961,Time,Prozac May Reduce Symptoms of Autism in Adults,5,9
+story_reviews_00962,WebMD,Treatment Shows Promise for Premature Ejaculation,3,6
+story_reviews_00963,WebMD,Experimental Treatment May Help Relieve Back Pain,3,6
+story_reviews_00964,Health Day,Non-Fried Fish Might Help Ward Off Alzheimer’s: Study,2,3
+story_reviews_00965,WebMD,Eating Fish May Be Good for Brain Health,4,6
+story_reviews_00966,WebMD,Microwave Technique Fights Lung Tumors,4,7
+story_reviews_00967,Los Angeles Times,The Healthy Skeptic: Promise of ChromaGen lenses for dyslexia a bit blurry,5,8
+story_reviews_00968,The New York Times,A Portable Glow to Help Melt Those Winter Blues,3,6
+story_reviews_00969,Health Day,Got High Blood Pressure? Kiwi Fruit May Help,3,4
+story_reviews_00970,WebMD,Stem Cells Repair Heart in First-Ever Study,3,6
+story_reviews_00971,Health Day,Shot Might One Day Help Lower Cholesterol,3,6
+story_reviews_00972,Chicago Tribune,New scan can speed Parkinson’s diagnosis,2,4
+story_reviews_00973,WebMD,"Study: Vaccine for Breast, Ovarian Cancer Has Potential",4,8
+story_reviews_00974,Health Day,New Drug Shows Promise Against Huntington’s Disease,3,6
+story_reviews_00975,CNN,New drug ‘big deal’ in cystic fibrosis fight,2,4
+story_reviews_00976,Associated Press,New device uses light to screen for melanoma,5,10
+story_reviews_00977,The Wall Street Journal,Study Weakens Case for Preventive Mastectomy,5,8
+story_reviews_00978,Health Day,New Multiple Sclerosis Therapy Promising in Early Trial,2,4
+story_reviews_00979,Health Day,Could Listening to Mozart Help Doctors Spot Colon Polyps?,2,2
+story_reviews_00980,Los Angeles Times,The Healthy Skeptic: Seeing through skin supplements’ claims,4,7
+story_reviews_00981,Health Day,Experimental Psoriasis Drug Bests Older Treatment,3,6
+story_reviews_00982,WebMD,Experimental Drug May Help Treat Psoriasis,3,6
+story_reviews_00983,The New York Times,Yoga and Stretching Equally Effective for Back Pain,3,5
+story_reviews_00984,The Wall Street Journal,Yoga May Help Low Back Pain. Mental Effects? Not So Much,3,6
+story_reviews_00985,WebMD,Cataract Surgery May Be Safer With Laser,3,5
+story_reviews_00986,MSNBC,"Sounds gross, works great: Fecal transplants cure nasty C. diff infections",3,5
+story_reviews_00987,Health Day,Can NSAIDs Cut Colorectal Cancer Deaths in Older Women?,2,2
+story_reviews_00988,The Philadelphia Inquirer,Penn team finds success with talk therapy for schizophrenics,3,5
+story_reviews_00989,Reuters Health,Medtronic tests stent for erectile dysfunction,1,1
+story_reviews_00990,Reuters Health,1 in 2 will have false alarm from yearly mammogram,3,4
+story_reviews_00991,Health Day,Less Frequent Mammograms May Lower False-Positive Results,3,4
+story_reviews_00992,WebMD,Annual Mammograms May Have More False-Positives,3,4
+story_reviews_00993,Los Angeles Times,"Robotic surgery grows, but so do questions",5,10
+story_reviews_00994,Reuters Health,"HPV test more sensitive than Pap, questions remain",4,8
+story_reviews_00995,Health Day,Ginger Supplements Might Ease Inflammation Linked to Colon Cancer,3,6
+story_reviews_00996,Reuters Health,"Chocolate lovers have fewer strokes, study finds",5,8
+story_reviews_00997,WebMD,Chocolate May Cut Women’s Stroke Risk,3,5
+story_reviews_00998,HealthDay,New Alzheimer’s Drug Shows Early Promise,5,8
+story_reviews_00999,WebMD,Drug May Reduce Plaque in Brains of Alzheimer’s Patients,4,7
+story_reviews_01000,Reuters Health,Study finds early potential in GSK leukaemia drug,1,1
+story_reviews_01001,WebMD,Muscle Relaxant May Ease Fibromyalgia Pain,3,6
+story_reviews_01002,The New York Times,A Squirt of Insulin May Delay Alzheimerâ€™s,3,6
+story_reviews_01003,Los Angeles Times,The Healthy Skeptic: Products make testosterone claims,5,9
+story_reviews_01004,The Washington Post,"A drink a day good for middle-aged women, study finds",2,2
+story_reviews_01005,WebMD,Moderate Drinking May Cut Disease Risk for Women,1,1
+story_reviews_01006,NPR,Cracking The Conundrum Of Chronic Fatigue Syndrome,2,3
+story_reviews_01007,Reuters Health,"Rare surgery brings more weight loss, more risks",5,9
+story_reviews_01008,Reuters Health,Yoga shows some benefit for diabetes,2,2
+story_reviews_01009,WebMD,Electronic Nose Sniffs Out Heart Failure,3,5
+story_reviews_01010,Associated Press,"Pfizer: New cancer pill gives hope, new strategy",2,3
+story_reviews_01011,Health Day,New Blood Thinner May Outperform Warfarin for Irregular Heartbeat,5,10
+story_reviews_01012,The New York Times,Trial Shows Blockbuster Potential for Blood Clot Pill,4,8
+story_reviews_01013,The New York Times,Nonalcoholic Beer Aids Marathon Recovery,2,3
+story_reviews_01014,Los Angeles Times,Certain foods may be the best medicine for lowering ‘bad’ cholesterol,3,5
+story_reviews_01015,CNN,"Bran, soy help cut cholesterol",2,3
+story_reviews_01016,Reuters Health,Less-invasive appendix surgery shines in new study,5,9
+story_reviews_01017,Reuters Health,Doctors screen for cervical cancer too often: study,5,8
+story_reviews_01018,Health Day,Ultrasound of Neck Arteries May Help Gauge Stroke Risk,3,6
+story_reviews_01019,WebMD,Dogs Sniff Out Lung Cancer in Humans,4,7
+story_reviews_01020,CNN,Will you have a heart attack? These tests might tell,1,2
+story_reviews_01021,Reuters Health,Blood injections may help chronic “tennis elbow”,3,5
+story_reviews_01022,Health Day,Chinese Herbs Equal to Tamiflu in Reducing H1N1 Fever: Study,3,5
+story_reviews_01023,The Boston Globe,A breast cancer breakthrough?,3,6
+story_reviews_01024,The New York Times,"Hot Chemotherapy Bath: Patients See Hope, Critics Hold Doubts",5,10
+story_reviews_01025,Des Moines Register,"New tests screen for gum disease, oral cancer",2,2
+story_reviews_01026,Reuters Health,Gene therapy shown to destroy leukemia tumors,4,7
+story_reviews_01027,WebMD,Gene Therapy Cures Adult Leukemia,4,8
+story_reviews_01028,The New York Times,"Test Can Tell Fetal Sex at 7 Weeks, Study Says",4,8
+story_reviews_01029,Reuters Health,Mother’s blood test reveals baby’s sex,4,8
+story_reviews_01030,The Arizona Republic,New drug shows promise in fighting breast cancer,2,3
+story_reviews_01031,Los Angeles Times,Urine test for prostate cancer may be better than blood test,2,3
+story_reviews_01032,WebMD,Urine Test May Help Predict Prostate Cancer,4,7
+story_reviews_01033,WebMD,Blood Test May Spot Alzheimer’s Before Symptoms Appear,4,7
+story_reviews_01034,Health Day,Larger Dose of Zinc Lozenges May Shorten Colds,3,4
+story_reviews_01035,Reuters Health,Stool test good for catching colon cancer: study,5,9
+story_reviews_01036,Health Day,Prenatal Omega-3 Fatty Acid Supplements May Cut Babies’ Colds,3,5
+story_reviews_01037,Los Angeles Times,The Healthy Skeptic: DHA touted as ‘smart’ pill for kids,3,5
+story_reviews_01038,MSNBC,"Drink wine, don’t get sunburned",0,0
+story_reviews_01039,Reuters Health,Women who eat lots of fiber have less breast cancer,5,8
+story_reviews_01040,NPR,"New Device Reduces Seizures, No Surgery Required",2,4
+story_reviews_01041,MSNBC,Antibiotics beat cranberries in battle against bladder infections,3,4
+story_reviews_01042,NPR,A Rubber Twist On Treating Tennis Elbow Pain,4,7
+story_reviews_01043,Chicago Tribune,"Quick shot replacing nip, tuck",1,2
+story_reviews_01044,Health Day,Experimental Drug Might Help Fight Alzheimer’s After All,4,6
+story_reviews_01045,CNN,Drug may cut menopause after breast cancer chemo,3,5
+story_reviews_01046,Los Angeles Times,The shallow waters of dolphin therapy claims,4,8
+story_reviews_01047,Associated Press,Drug also halts HIV in straight couples,3,6
+story_reviews_01048,CNN,Taking meds before exposure cuts HIV risk for heterosexuals,3,6
+story_reviews_01049,Health Day,"For Some Prostate Cancer Patients, Combo Treatment Improves Survival",4,8
+story_reviews_01050,NPR,"Silicone Breast Implants: Safe, With Caveats",3,5
+story_reviews_01051,Health Day,Higher Folic Acid Levels in Teens Tied to Academic Success,3,4
+story_reviews_01052,Reuters Health,Folic acid tied to better grades in Swedish teens,5,8
+story_reviews_01053,The Washington Post,New laser treatment takes aim at toenail fungus,2,3
+story_reviews_01054,Health Day,Study Questions Chiropractic’s Impact on Back Pain,4,7
+story_reviews_01055,WebMD,Study Shows Chest Pain From Heart Disease Can Be Treated With Stem Cell Therapy,4,8
+story_reviews_01056,The Wall Street Journal,Heart Treatment Overused,5,9
+story_reviews_01057,Reuters Health,Review raises questions over benefits of cutting salt,5,6
+story_reviews_01058,NPR,Got Low Back Pain? Massage Therapy May Rub It Out,3,5
+story_reviews_01059,Reuters Health,Who should get screened for lung cancer?,5,10
+story_reviews_01060,MSNBC,Coffee buzz protects brain from Alzheimer’s,2,2
+story_reviews_01061,Reuters Health,Benefit of mammograms even greater than thought,2,3
+story_reviews_01062,Health Day,New Blood Thinner Beats Plavix When Paired With Low-Dose Aspirin,3,5
+story_reviews_01063,Los Angeles Times,Research shows promise in reversing Type 1 diabetes,5,9
+story_reviews_01064,Reuters Health,Olive oil lovers show lower stroke risk,5,7
+story_reviews_01065,Health Day,"Sleeptime Head-Cooling Cap Eases Insomnia, Study Finds",4,7
+story_reviews_01066,WebMD,Olive Oil Linked to Reduced Stroke Risk,5,6
+story_reviews_01067,Los Angeles Times,Consuming more olive oil may protect against strokes,3,3
+story_reviews_01068,The Wall Street Journal,"‘Honey, It’s Your Turn…’",5,9
+story_reviews_01069,Los Angeles Times,Extracting the facts about pomegranate pills,5,8
+story_reviews_01070,The Philadelphia Inquirer,Firm develops magnetic-pulse treatment for major depression,3,6
+story_reviews_01071,Health Day,Jury Still Out on Radiation for Early Prostate Cancer,5,8
+story_reviews_01072,WebMD,"Type 2 Diabetes Treatment Victoza Helps Type 1, Too",3,5
+story_reviews_01073,The New York Times,Drugs Show Promise Slowing Advanced Melanoma,5,10
+story_reviews_01074,Reuters Health,Exelixis drug slows prostate cancer spread in trial,2,2
+story_reviews_01075,Associated Press,Study: Pfizer lung cancer pill may double survival,2,2
+story_reviews_01076,Associated Press,Hormone-blocking drug reduces breast cancer risk,5,9
+story_reviews_01077,CNN,Two new drugs extend survival for melanoma patients,4,7
+story_reviews_01078,Reuters Health,New melanoma drugs improve chances of survival,4,8
+story_reviews_01079,MSNBC,"Pill could erase painful memories, study shows",1,1
+story_reviews_01081,WebMD,Prenatal Vitamins May Lower Autism Risk,3,6
+story_reviews_01082,Health Day,Study Suggests Special MRI Might Help Diagnose Autism,4,8
+story_reviews_01083,NPR,Egg Freezing Puts The Biological Clock On Hold,3,6
+story_reviews_01084,Time,Prostate Cancer Studies Find Benefit in Daily Acetaminophen and Brisk Walks,1,1
+story_reviews_01085,The Wall Street Journal,Limits of New Screen for Heart Disease,4,8
+story_reviews_01086,Reuters Health,Heart scans tied to “evidence-free” treatment: study,5,10
+story_reviews_01087,WebMD,Do Probiotics Relieve Constipation in Children?,3,5
+story_reviews_01088,The Wall Street Journal,Pills Offer Easier Way to Treat MS,4,8
+story_reviews_01089,Associated Press,HPV test beats Pap for cervical cancer screening,5,10
+story_reviews_01090,Health Day,Selenium Supplements Might Give Modest Benefit Against Cholesterol,4,6
+story_reviews_01091,Reuters Health,Can selenium lower cholesterol?,5,8
+story_reviews_01092,Health Day,Tonsil Removal Might Cure Bedwetting in Some Kids With Sleep Apnea,3,5
+story_reviews_01093,The New York Times,"Dessert, Laid-Back and Legal",5,9
+story_reviews_01094,Reuters Health,"Celebrex may curb colon cancer, but with caveats",5,9
+story_reviews_01095,USA Today,New drug advances the fight against pancreatic cancer,4,7
+story_reviews_01096,CNN,Study shows differences in pancreatic cancer treatments,1,1
+story_reviews_01097,Health Day,Can Crotch Length Predict Infertility in Men?,3,4
+story_reviews_01098,WebMD,Mindfulness Meditation May Cut IBS Symptoms,0,0
+story_reviews_01099,Reuters Health,Lung scans may lead to overdiagnosis: study,4,7
+story_reviews_01100,The Wall Street Journal,Significant Number of Medicare Patients Getting Too-Frequent Colonoscopies,4,7
+story_reviews_01101,Associated Press,Study: Many elderly get colon screening too often,5,8
+story_reviews_01102,Reuters Health,Crohn’s patients respond to J&J’s Stelara in study.,3,5
+story_reviews_01103,The New York Times,New Stratagems in the Quest for Hair,4,7
+story_reviews_01104,NPR,Swedish Study Finds Surgery For Prostate Cancer Better Than Waiting,4,7
+story_reviews_01105,The New York Times,"Low-Salt Diet Ineffective, Study Finds. Disagreement Abounds.",5,7
+story_reviews_01106,Associated Press,Study: Prostate cancer surgery helps younger men,5,9
+story_reviews_01107,Health Day,Aggressive Treatment May Be Beneficial for Early Prostate Cancer,5,9
+story_reviews_01108,The Wall Street Journal,Quest for Vaccines to Treat Addiction,4,7
+story_reviews_01109,USA Today,Study: Lower salt intake could be riskier than thought,3,3
+story_reviews_01110,Los Angeles Times,Midlife: Drop in testosterone can affect sexual desire in men and women,2,3
+story_reviews_01111,The Denver Post,Fewer Colorado women getting mammograms since 2009 guideline change,2,3
+story_reviews_01112,CNN,"Fewer mammograms being done, studies show",4,7
+story_reviews_01113,Reuters Health,Tailored medicine could prevent more heart attacks,4,7
+story_reviews_01114,The Wall Street Journal,Potential Parkinson’s Treatment Explored,5,7
+story_reviews_01115,The New York Times,Test of Eye Drug Is Said to Show Success in Elderly,4,6
+story_reviews_01116,WebMD,Gastric Bypass May Improve Diabetes Quickly,3,5
+story_reviews_01117,NPR,"Tai Chi, A ‘Medication In Motion,’ Helps People With Heart Failure",2,2
+story_reviews_01118,Health Day,Acupuncture May Help Ease Hot Flashes Tied to Prostate Cancer Treatment,3,4
+story_reviews_01119,Health Day,"When Size Matters, Men Can Turn to Penile Extenders: Study",3,5
+story_reviews_01120,Health Day,Experimental Test May Warn of Premature Births,4,8
+story_reviews_01121,Reuters Health,"Aspirin cuts heart attacks, not deaths or strokes",5,9
+story_reviews_01122,The Wall Street Journal,Pushing Limits of New Knees,3,5
+story_reviews_01123,Health Day,"Women Taking Calcium Supplements May Risk Heart Health, Researchers Say",4,6
+story_reviews_01124,NPR,"Alzheimer’s Redefined, But Changes Mean Little For Patients",5,8
+story_reviews_01125,Associated Press,New guidelines define pre-Alzheimer’s disease,5,7
+story_reviews_01126,WebMD,FDA Approves New Device for Brain Tumor Treatment,1,2
+story_reviews_01127,The Philadelphia Inquirer,Made-to-order medicine,1,2
+story_reviews_01128,Health Day,Statin Drugs May Cut Risk of Kidney Trouble After Surgery,2,3
+story_reviews_01129,The New York Times,Screening Prostates at Any Age,4,8
+story_reviews_01130,Health Day,An Apple a Day May Help Keep Heart Disease Away,2,2
+story_reviews_01131,Los Angeles Times,Diet drug Qnexa: Don’t get too carried away by new study,4,7
+story_reviews_01132,Health Day,New Pill for MS Shows Promise in Clinical Trial,4,7
+story_reviews_01133,CNN,Study: Weight-loss combo pill shows promise,4,7
+story_reviews_01134,The Wall Street Journal,"Strawberries Fight Cancer, Study Finds",2,2
+story_reviews_01135,Associated Press,Vaginal gel reduces preterm births in some women,5,9
+story_reviews_01136,Los Angeles Times,Premature births may be reduced with hormone gel,3,5
+story_reviews_01137,The Wall Street Journal,"More Options Before Bypass Surgery, Study Finds",5,9
+story_reviews_01138,Reuters Health,Study finds statins reduce pneumonia death rates,2,3
+story_reviews_01139,WebMD,Aspirin Linked to Lower Pancreatic Cancer Risk,0,0
+story_reviews_01140,The New York Times,Estrogen Lowers Breast Cancer and Heart Attack Risk in Some,4,7
+story_reviews_01141,The Washington Post,"Good news, bad news for former estrogen users",3,5
+story_reviews_01142,Los Angeles Times,New heart valve replacement procedure hailed,4,8
+story_reviews_01143,The New York Times,Regular Fasting May Boost Heart Health,2,3
+story_reviews_01144,Reuters Health,Abbott absorbable stent shows good results,2,3
+story_reviews_01145,Reuters Health,Can painkillers prevent melanoma?,5,7
+story_reviews_01146,The Wall Street Journal,Patients May Benefit From New Heart Device,4,7
+story_reviews_01147,WebMD,3-Drug Combo May Treat Hepatitis C,3,6
+story_reviews_01148,Los Angeles Times,"For weight loss, add sleep and relaxation to diet and exercise",2,2
+story_reviews_01149,Health Day,"Less Stress, Better Sleep May Help You Lose Weight",4,6
+story_reviews_01150,Health Day,New Therapy for Enlarged Prostate May Bypass Unpleasant Side Effects,2,4
+story_reviews_01151,WebMD,No-Scalpel Treatment for Enlarged Prostate,2,3
+story_reviews_01152,Health Day,No Good Evidence That Folk Remedies Ease Colic,4,7
+story_reviews_01153,NPR,Alexander Technique: A Balm For Back Pain?,2,3
+story_reviews_01154,MSNBC,How to soothe baby’s colic? Pour a cup of tea,0,0
+story_reviews_01155,The New York Times,Trolling the Oceans to Combat Aging,2,3
+story_reviews_01156,Los Angeles Times,Lab-grown mouse sperm could spawn fertility treatments for men,3,5
+story_reviews_01157,The Philadelphia Inquirer,3-D breast scan seen as breakthrough,4,8
+story_reviews_01158,The Dallas Morning News,New stem cell study promises to heal the heart,2,3
+story_reviews_01159,The Wall Street Journal,Stitching Up Shoulders,3,4
+story_reviews_01160,Health Day,40% of Gastric Banding Patients Have Complications,4,7
+story_reviews_01161,WebMD,Study: Poor Results From Lap-Band Surgery,4,8
+story_reviews_01162,WebMD,Blood Test May Predict Risk of Diabetes,2,3
+story_reviews_01163,Associated Press,Study: Gene therapy improves Parkinson’s symptoms,3,6
+story_reviews_01164,Reuters Health,Hormones may be better than soy for hot flashes,5,9
+story_reviews_01165,The Wall Street Journal,A Touch of Massage Therapy: Reiki Used for Cancer Patients,4,7
+story_reviews_01166,The Philadelphia Inquirer,A Dutch therapy that stimulates the senses seems to soothe dementia patients,4,7
+story_reviews_01167,NPR,How To Beat Sleep Apnea? Cut It Out (Surgically),3,6
+story_reviews_01168,NPR,Say Aaa! Then Zzz: Tonsillectomy Helps Kids Sleep,3,6
+story_reviews_01169,AP Associated Press,FDA approves first new drug for lupus in 56 years,4,7
+story_reviews_01170,Associated Press,Could gene tests tell if kids can be sports stars?,4,8
+story_reviews_01171,The Wall Street Journal,Why to Eat Like a Greek,4,6
+story_reviews_01172,Health Day,Acupuncture May Take Edge Off Menopause Symptoms,1,1
+story_reviews_01173,CNN,"Mediterranean diet cuts heart, diabetes risk factors",3,4
+story_reviews_01174,WebMD,Acupuncture May Ease Hot Flashes,1,1
+story_reviews_01175,Health Day,Noninvasive Test May Identify Down Syndrome Early On,3,6
+story_reviews_01176,Reuters Health,Scientists develop blood test for Down’s Syndrome,2,2
+story_reviews_01177,Associated Press,Stomach pacemaker could help obese lose weight,3,6
+story_reviews_01178,Time,Virtual Colonoscopy Gains in Popularity. Is It Right for You?,2,4
+story_reviews_01179,Health Day,New Chemo Drug May Benefit Some Breast Cancer Patients,4,7
+story_reviews_01180,The Wall Street Journal,Chew On This: Sticking With Nicotine Gum for the Long Haul,3,5
+story_reviews_01181,Associated Press,Gene therapy raises hope for a future AIDS cure,5,10
+story_reviews_01182,Health Day,Fish Oil Seems to Help Cancer Patients Preserve Muscle,2,3
+story_reviews_01183,Associated Press,Study: PSA rise not good prostate cancer predictor,4,7
+story_reviews_01184,Health Day,Rapid Rise in PSA Levels a Poor Predictor of Prostate Cancer: Study,4,7
+story_reviews_01185,NPR,Pill That Hits A Cause Of Cystic Fibrosis Beats Expectations,4,8
+story_reviews_01186,The New York Times,Trial Shows Cystic Fibrosis Drug Helped Ease Breathing,5,9
+story_reviews_01187,NPR,Drugs To Prevent Weak Bones Linked To Unusual Fractures In Women,5,9
+story_reviews_01188,Los Angeles Times,"Gastric bypass more effective than other procedures, studies find",2,2
+story_reviews_01189,Health Day,Brain’s Electrical Activity May Help Spot Infants at High Risk for Autism,2,4
+story_reviews_01190,CNN,Brain scans may someday detect autism,3,6
+story_reviews_01191,The Wall Street Journal,Fungus Got Your Toes? Zap It,5,9
+story_reviews_01192,Health Day,Mammograms May Not Be Fool-Proof at Catching Second Cancers,4,6
+story_reviews_01193,Reuters Health,"More unusual, fewer usual breaks with bone drugs",5,9
+story_reviews_01194,Associated Press,Trying brain pacemakers to zap psychiatric disease,4,8
+story_reviews_01195,Health Day,"Gastric Bypass Best for Weight Loss, Study Finds",4,7
+story_reviews_01196,The Wall Street Journal,Drug Shows Promise For Newborn Blindness,4,8
+story_reviews_01197,WebMD,Can Pomegranate Pills Fight Prostate Cancer?,3,5
+story_reviews_01198,Health Day,PSA Test Cut-off Could Signal Low-Risk Prostate Cancer,2,3
+story_reviews_01199,WebMD,Zinc May Prevent and Shorten Colds,2,4
+story_reviews_01202,Reuters Health,"Zinc will help your cold, at least a little",3,6
+story_reviews_01203,Reuters Health,Women on bone drugs have less colon cancer: study,4,8
+story_reviews_01204,Health Day,Popular Bone Drugs Linked to Reduced Colon Cancer Risk,3,6
+story_reviews_01205,The Washington Post,Can relaxation drinks put you to sleep?,4,7
+story_reviews_01206,WebMD,Berries May Ward Off Parkinson’s Disease,1,1
+story_reviews_01207,Los Angeles Times,Creatine supplements may benefit women with knee osteoarthritis,2,2
+story_reviews_01208,WebMD,Clot-Busting Drug May Prevent Disability From Mild Stroke,3,6
+story_reviews_01209,The New York Times,Lymph Node Study Shakes Pillar of Breast Cancer Care,5,9
+story_reviews_01210,The Washington Post,Breast-cancer study questions lymph node removal,4,7
+story_reviews_01211,CNN,New research raises hopes in quest to find universal flu vaccine,3,4
+story_reviews_01212,Reuters Health,Heart failure therapy twice as effective in women,2,2
+story_reviews_01213,USA Today,Early breast cancers may need less lymph node surgery,4,7
+story_reviews_01214,WebMD,Is Chocolate the Next Super Food?,2,4
+story_reviews_01215,Health Day,"Processed, Fatty Foods May Dumb Down Your Kids: Study",2,4
+story_reviews_01216,NPR,FDA Approves First Drug To Prevent Preterm Births,5,9
+story_reviews_01217,Health Day,Restrictive Diet May Reduce ADHD Symptoms,3,6
+story_reviews_01218,Los Angeles Times,Osteoporosis medication extends life by five years,0,0
+story_reviews_01219,WebMD,Study: ADHD Diet Helps Reduce Symptoms,2,4
+story_reviews_01220,WebMD,HPV Shot Prevents Genital Warts in Boys and Men,3,6
+story_reviews_01221,HealthDay,Gardasil Vaccine Guards Against HPV in Boys,3,5
+story_reviews_01222,Reuters Health,Scientists look to stem cells to mend broken hearts,0,0
+story_reviews_01223,Orlando Sentinel,Study: Proton treatment for prostate cancer results in few complications,2,3
+story_reviews_01224,NPR,Doctor Challenges Cause Of MS And Treatment,3,5
+story_reviews_01225,NPR,CDC To Doctors: Anti-HIV Pill No Magic Bullet Against Virus,5,9
+story_reviews_01226,Reuters Health,"Extra calcium, vitamin D no bone booster for men",4,7
+story_reviews_01227,Reuters Health,New U.S. analysis backs annual breast screening,1,1
+story_reviews_01228,Los Angeles Times,Breast cancer drug may slow lung cancer’s march,2,3
+story_reviews_01229,Reuters Health,Blocking “rogue gene” may stop cancer spread: study,2,2
+story_reviews_01230,WebMD,Deep Brain Stimulation for Stubborn Hypertension,3,5
+story_reviews_01231,Health Day,Deep Brain Stimulation Might Ease Tough-to-Treat Hypertension,3,5
+story_reviews_01232,Reuters Health,Short-term pill-free therapy may help insomniacs,4,6
+story_reviews_01233,The Denver Post,Coconuts are busting out all over,1,2
+story_reviews_01234,Health Day,Pain Patches Making Gains in U.S.,2,4
+story_reviews_01235,The Wall Street Journal,Sluggish? Confused? Vitamin B12 May Be Low,2,4
+story_reviews_01236,The New York Times,Close Look at Orthotics Raises a Welter of Doubts,2,4
+story_reviews_01237,CNN,Study: Fatty acids can help ease PMS symptoms,3,4
+story_reviews_01238,WebMD,Antidepressant May Help Ease Hot Flashes,4,7
+story_reviews_01239,The Washington Post,Antidepressants relieve hot flashes,2,3
+story_reviews_01240,Los Angeles Times,Alternative treatments for diabetes — do they work?,4,7
+story_reviews_01241,The Denver Post,Anti-Gravity Treadmill helps injured get moving again,1,1
+story_reviews_01242,NPR,"Antibiotics Defeat Ear Infections In Little Kids, Studies Find",4,7
+story_reviews_01243,CNN,"Antibiotics speed up recovery from ear infections in young children, studies show",4,7
+story_reviews_01244,Los Angeles Times,New studies say antibiotics are good for infants with confirmed ear infections,4,7
+story_reviews_01245,The Washington Post,"Studies show that for kids’ ear infections, antibiotics work better than waiting",1,1
+story_reviews_01246,Los Angeles Times,Prenatal blood test for Down syndrome shows high level of accuracy,3,4
+story_reviews_01247,WebMD,Progress Toward Blood Test for Down Syndrome,5,9
+story_reviews_01248,Reuters Health,Vaccine sharply cuts rate of shingles: study,3,6
+story_reviews_01249,Health Day,Shingles Vaccine Looks Like a Safe Bet for Seniors: Study,5,9
+story_reviews_01250,WebMD,Shingles Vaccine Cuts Disease Risk 55%,4,7
+story_reviews_01251,Los Angeles Times,Stem cell therapy for macular degeneration,3,5
+story_reviews_01252,Reuters Health,Prozac shows promise in recovery from stroke,3,5
+story_reviews_01253,Chicago Tribune,A crystal ball for the spine,2,2
+story_reviews_01254,WebMD,2 Weeks of Antibiotic Therapy Relieves IBS,2,4
+story_reviews_01255,Associated Press,"Antibiotic eases common stomach pain, studies find",4,8
+story_reviews_01256,Health Day,Experimental Drug Helps Fight Aggressive Breast Cancer: Report,4,7
+story_reviews_01257,The Wall Street Journal,New Breast Cancer Drug Found Deep In the Sea,4,7
+story_reviews_01258,The Wall Street Journal,Injecting Migraine Pain Away,3,6
+story_reviews_01259,Los Angeles Times,Study finds overuse of implanted defibrillators,4,8
+story_reviews_01260,The Wall Street Journal,More Than 22% of Heart-Device Implantations Aren’t In Line With Guidelines,3,5
+story_reviews_01261,CNN,New test under development could find single cancer cell in blood,2,3
+story_reviews_01262,Associated Press,J&J joins development of blood test that can spot 1 cancer cell in a billion healthy ones,4,7
+story_reviews_01263,Reuters Health,More signs lung cancer screening could save lives,4,7
+story_reviews_01264,Associated Press,Experiments test if implant can block sleep apnea,2,3
+story_reviews_01265,NPR,Don’t Stay Up Waiting For A Pill To Fight Jet Lag,4,6
+story_reviews_01266,Reuters Health,"Moms who take folic acid, iron have smarter kids",2,3
+story_reviews_01267,USA Today,Study: Stroke deaths higher where fried fish aplenty,5,7
+story_reviews_01268,CNN,Dyslexia: Scanning the brain for clues,4,7
+story_reviews_01269,Health Day,Does ‘Club Drug’ Ecstasy Have Therapeutic Value?,1,1
+story_reviews_01270,Los Angeles Times,Vaginal steam bath finds a place among Southern California spa options,4,7
+story_reviews_01271,Los Angeles Times,The Healthy Skeptic: telomerase activators,3,5
+story_reviews_01272,WebMD,Brain Scans Predict Dyslexia Improvements,1,2
+story_reviews_01273,The Wall Street Journal,"Circulation Solutions: Varicose veins can be disabling, but new remedies are easing removal",3,6
+story_reviews_01274,Reuters Health,Brain scans predict which dyslexics will read,0,0
+story_reviews_01275,The New York Times,Remedies: Honey for Coughing,3,5
+story_reviews_01276,CNN,FDA rejects Avastin as breast cancer therapy,4,6
+story_reviews_01277,Reuters Health,German doctors declare “cure” in HIV patient,4,7
+story_reviews_01278,Los Angeles Times,Weighing effectiveness versus risk in obesity drugs,2,4
+story_reviews_01279,Health Day,Acupuncture Might Treat Certain Kind of Lazy Eye,3,6
+story_reviews_01280,WebMD,Acupuncture May Help Lazy Eye,3,6
+story_reviews_01281,Los Angeles Times,Drug’s benefit to younger breast cancer patients in question,3,6
+story_reviews_01282,Health Day,Bone Drug Zometa Flops Overall as Breast Cancer Treatment,5,9
+story_reviews_01283,Los Angeles Times,Baby aspirin linked to reduced cancer deaths,4,7
+story_reviews_01284,NPR,A daily aspirin to prevent cancer? Maybe.,4,7
+story_reviews_01285,Associated Press,"Aspirin may cut cancer deaths, but caution urged",5,9
+story_reviews_01286,Reuters Health,Study finds daily aspirin cuts many cancer risks,2,2
+story_reviews_01287,The New York Times,"Aspirin Helps in Reducing Cancer Deaths, a Study Finds",3,5
+story_reviews_01288,WebMD,Aspirin Cuts Death Rate From Several Common Cancers,3,5
+story_reviews_01289,Health Day,Daily Aspirin Linked to Steep Drop in Cancer Risk,3,5
+story_reviews_01290,Associated Press,"Warm, beating hearts offer new hope for transplants",3,5
+story_reviews_01291,Health Day,Gene Therapy Corrected Rare Bleeding Disorder: Study,4,6
+story_reviews_01292,Reuters Health,Brain scans accurate at spotting autism: U.S. study,1,2
+story_reviews_01293,CNN,Researchers one step closer to potential autism test,3,6
+story_reviews_01294,Reuters Health,Study links finger length to prostate cancer risk,0,0
+story_reviews_01295,The Philadelphia Inquirer,U.S. panel triples Vitamin D intake guideline,4,7
+story_reviews_01296,The New York Times,Report Questions Need for 2 Diet Supplements,5,8
+story_reviews_01297,Associated Press,"Report: A bit more vitamin D is good, not too much",5,8
+story_reviews_01298,Health Day,Cancer History Should Consider MRI: Study,1,1
+story_reviews_01299,The Wall Street Journal,FDA Questions Using Avodart to Cut Prostate Cancer Risk,3,4
+story_reviews_01300,Reuters Health,Robotic assist eases less-invasive hysterectomies,4,7
+story_reviews_01301,Health Day,Implanted Heart Devices Have ‘Real-World’ Benefits: Study,2,3
+story_reviews_01302,Los Angeles Times,Pill shows a drop of up to 70% in HIV infection risk,4,7
+story_reviews_01303,The New York Times,2 Treatments for Retinas Make Gains,3,4
+story_reviews_01304,Reuters Health,Pomegranate juice could help kidney patients,5,9
+story_reviews_01306,WebMD,Musical Exercise Program Cuts Falls in Elderly,1,1
+story_reviews_01307,WebMD,Fruits and Vegetables May Prolong Your Life,1,1
+story_reviews_01308,The New York Times,"In Small Test, Experimental Prostate Drug Shows Promise",3,5
+story_reviews_01309,USA Today,New drug ‘may turn back the clock on heart disease’,2,4
+story_reviews_01310,Associated Press,Next big thing? Big cholesterol drop with new drug,4,8
+story_reviews_01311,Health Day,Experimental Drug Raises Good Cholesterol Levels in Early Trial,4,6
+story_reviews_01312,CNN,New drug promising against cholesterol,3,5
+story_reviews_01313,Los Angeles Times,Experimental drug could replace burdensome anti-stroke treatment warfarin,4,7
+story_reviews_01314,The New York Times,The Downside of a Cancer Study Extolling CT Scans,5,10
+story_reviews_01315,Health Day,Gene Therapy Shows Potential Against Heart Failure,2,3
+story_reviews_01316,The Wall Street Journal,Heart Device Cuts Death Rate,5,9
+story_reviews_01317,USA Today,New pill prevents strokes with less bleeding risk for atrial fib patients,4,7
+story_reviews_01318,Associated Press,Study: New blood thinner works as well as Coumadin,4,7
+story_reviews_01319,Los Angeles Times,Pacemaker-like device combined with defibrillator reduces deaths in mild heart failure by 29%,3,6
+story_reviews_01320,Reuters Health,Bypass patients can benefit from a few drinks: study,0,0
+story_reviews_01321,NPR,Probiotics May Help Soothe The Stomach,3,5
+story_reviews_01322,The New York Times,Prostate Cancer Drug Gets Lukewarm Review,3,5
+story_reviews_01323,Health Day,Special Infant Formula Might Help Shield Babies from Type 1 Diabetes,4,7
+story_reviews_01324,Health Day,"Higher Statin Doses Linked to Fewer Heart Attacks, Stroke",3,6
+story_reviews_01325,Los Angeles Times,Doctors suggest that women hit pause button on osteoporosis drugs,3,4
+story_reviews_01326,Los Angeles Times,Vitamin B and its role in improving memory,4,8
+story_reviews_01327,CNN,"Topical rub eases kids’ cold symptoms, study says",4,7
+story_reviews_01328,The New York Times,"CT Scans Can Reduce Lung Cancer Deaths, Study Finds",4,7
+story_reviews_01329,USA Today,Study: CT scans can reduce lung cancer deaths by 20%,3,6
+story_reviews_01330,Associated Press,"Special CT scans cut lung cancer deaths in major study, but questions remain about screening",4,7
+story_reviews_01331,Reuters Health,“Spiral” CT scans reduce smoker deaths: study,3,5
+story_reviews_01332,Reuters Health,Retinal implant trial helps blind people see shapes,1,2
+story_reviews_01333,WebMD,Beet Juice Good for Brain,2,2
+story_reviews_01334,Health Day,MRI Images May Pinpoint Time of Stroke,4,7
+story_reviews_01336,Reuters Health,Diabetes drugs may help control lung cancer: study,3,5
+story_reviews_01337,NPR,Train The Brain: Using Neurofeedback To Treat ADHD,4,8
+story_reviews_01338,The Philadelphia Inquirer,Researchers at Philadelphia conference announce progress toward noninvasive colon cancer test,2,4
+story_reviews_01339,The New York Times,New DNA Tests Aimed at Reducing Colon Cancer,3,6
+story_reviews_01340,Health Day,Noninvasive Test for Colon Cancer Shows Promise in Early Trial,3,6
+story_reviews_01341,WebMD,New Portable Scanner for Breast Cancer,2,3
+story_reviews_01342,WebMD,New Colon Cancer Screening Test in the Works,3,5
+story_reviews_01343,The New York Times,Do Cortisone Shots Actually Make Things Worse?,5,9
+story_reviews_01344,CNN,POM-boozled: Do health drinks live up to their labels?,4,7
+story_reviews_01345,Associated Press,More not always better with in vitro fertilization,4,8
+story_reviews_01346,HealthDay,Bitter Taste Receptors Found in Lungs May Aid Asthma Patients,0,0
+story_reviews_01347,Los Angeles Times,"Science working to create workable, safe blood substitutes",4,8
+story_reviews_01348,HealthDay,Aspirin May Help Patients Beat Prostate Cancer,3,4
+story_reviews_01349,WebMD,Baking Soda Boosts Athletic Performance,0,0
+story_reviews_01350,WebMD,Aspirin May Cut Prostate Cancer Deaths,3,5
+story_reviews_01351,The Wall Street Journal,Fish Oil Study Finds Little Benefit for Pregnant Women,4,8
+story_reviews_01352,The New York Times,Fish Oil Use in Pregnancy Didnâ€™t Make Babies Smart,3,5
+story_reviews_01353,NPR,Experimental Therapy For Sore Heels Has Skeptics,4,8
+story_reviews_01354,WebMD,Vitamin B12 Linked to Lower Alzheimerâ€™s Risk,2,2
+story_reviews_01355,WebMD,Statin Drugs May Cut Risk of Colorectal Cancer,2,3
+story_reviews_01356,Reuters Health,Statin drugs may lower colon cancer risk: study,1,1
+story_reviews_01357,Reuters Health,Viagra may help heart effects of muscular dystrophy,2,3
+story_reviews_01358,CNN Health,Study: Vitamin B12 may help ward off Alzheimer’s,4,5
+story_reviews_01359,Los Angeles Times,Older women with healthy bones may not need frequent bone scans,2,4
+story_reviews_01360,WebMD,New Views on Frequency of Osteoporosis Screening,3,5
+story_reviews_01361,HealthDay,Study Suggests Osteoporosis Drug Might Treat Loss of Bone in Jaw,2,4
+story_reviews_01362,HealthDay,MRI Might Screen for Autism,1,1
+story_reviews_01363,Reuters Health,Protein urine test may signal prostate cancer,2,3
+story_reviews_01364,Orlando Sentinel,Eating watermelon could lower your blood pressure,2,2
+story_reviews_01365,The New York Times,Hormone Replacement for Men? Perhaps,4,7
+story_reviews_01366,The Wall Street Journal,Study Points to New Prostate Drug,3,6
+story_reviews_01367,Reuters Health,"Erbitux may help fight breast cancer, claims study",4,6
+story_reviews_01368,Reuters Health,Special Report: Life and death in the age of the bionic heart,2,4
+story_reviews_01369,WebMD,Drug Extends Prostate Cancer Survival,1,1
+story_reviews_01370,The Boston Globe,Doctors study osteoporosis screening and treatment choices to lessen risk of fractures,4,7
+story_reviews_01371,The Wall Street Journal,How To Help People Lose Weight? Give â€˜Em Free Meals and Money!,3,6
+story_reviews_01372,TIME,Study O.K.’s Light Drinking During Pregnancy. Too Good to Be True?,4,5
+story_reviews_01373,Reuters Health,Colonoscopy may miss more than 7 percent of cancers,4,8
+story_reviews_01374,WebMD,Seizure and Pain Drug May Treat Hot Flashes,4,7
+story_reviews_01375,The New York Times,Neurofeedback Gains Popularity and Lab Attention,4,7
+story_reviews_01376,The Wall Street Journal,Some Doctors Question New Cancer Treatment,5,9
+story_reviews_01377,WebMD,Light Drinking During Pregnancy: No Harm to Baby?,3,5
+story_reviews_01378,NPR,"Surgery For Sinus Misery: Better, But Still No Cure",4,7
+story_reviews_01379,Reuters Health,New method could make IVF more effective,0,0
+story_reviews_01380,Hartford Courant,Study Finds Hormone Therapy Helpful For Cystic Fibrosis,3,5
+story_reviews_01381,Reuters Health,Study hints multivitamins aid women’s heart health,3,5
+story_reviews_01382,The New York Times,Mammogram Benefit Seen for Women in Their 40s,4,7
+story_reviews_01383,HealthDay,IUD Proposed to Treat Uterine Cancer,5,9
+story_reviews_01384,Los Angeles Times,Swedish mammography study sows more confusion about screening for breast cancer,5,9
+story_reviews_01385,AP Associated Press,New mammogram study stirs debate for women in 40s,5,8
+story_reviews_01386,HealthDay,"Mammograms Save Lives for Women in Their 40s, Study Says",2,2
+story_reviews_01387,The New York Times,Simplifying the Decision for a Prostate Screening,4,7
+story_reviews_01388,WebMD,New Drug Helps Treatment-Resistant Arthritis,2,3
+story_reviews_01389,WebMD,IUDs May Help Treat Endometrial Cancer,4,8
+story_reviews_01390,HealthDay,"Experimental Test May Spot Prostate Cancer Earlier, More Accurately",1,2
+story_reviews_01391,Reuters Health,Can lasers help you stop smoking? Check the data,5,9
+story_reviews_01392,The Wall Street Journal,A Genetic Test for Prospective Parents,3,6
+story_reviews_01393,USA Today,"Cartilage regeneration builds a new knee, from the inside",2,4
+story_reviews_01394,NPR,A No-Cringe Fix? Filling Cavities Without The Drill,2,2
+story_reviews_01395,HealthDay,"In Test of Stents, Old Standby Wins Out",4,7
+story_reviews_01396,The Philadelphia Inquirer,New study widens debate on the value of mammograms,5,9
+story_reviews_01397,CNN Health,Study questions benefit of mammograms in women over 50,3,5
+story_reviews_01398,The New York Times,Mammogramsâ€™ Value in Cancer Fight at Issue,5,9
+story_reviews_01399,WebMD,Mammograms Less Effective Than Believed,5,9
+story_reviews_01400,USA Today,Mammogram benefits more modest than doctors thought,4,7
+story_reviews_01401,HealthDay,"Mammograms Cut Breast Cancer Death Rates, But Only Modestly: Study",3,5
+story_reviews_01402,AP Associated Press,Study finds mammograms offer modest benefit,3,6
+story_reviews_01403,USA Today,Some appendicitis cases may not require ’emergency’ surgery,5,9
+story_reviews_01404,Orlando Sentinel,Eat your blueberries! They may cut risk of diabetes and high blood pressure,1,1
+story_reviews_01405,The New York Times,New Drugs Stir Debate on Rules of Clinical Trials,5,9
+story_reviews_01406,HealthDay,Early Trial Suggests COPD Drug Might Help Some Asthmatics,4,7
+story_reviews_01407,AP Associated Press,Spiriva as good as Serevent in asthma study,3,6
+story_reviews_01408,Los Angeles Times,Small study suggests electrical stimulation of the brain can ease migraine pain,1,1
+story_reviews_01409,WebMD,FDA Approves Krystexxa to Treat Gout,2,4
+story_reviews_01410,CNN Health,Looming ruling on breast cancer drug splits patient advocates,4,7
+story_reviews_01411,The Wall Street Journal,"Freeze! Zap! Bye-Bye, Fat",3,5
+story_reviews_01412,Reuters Health,Researchers develop test for pregnancy complication,3,5
+story_reviews_01413,The New York Times,Drug for Irritable Bowel Achieves Goals in Trial,4,7
+story_reviews_01414,Reuters Health,Study backs prostate screening for high risk men,3,6
+story_reviews_01415,NPR,No Cure For Morning Sickness Just Yet,4,6
+story_reviews_01416,Los Angeles Times,"Nothing much works for morning sickness, study finds",2,2
+story_reviews_01417,WebMD,Cholesterol-Lowering Drugs May Cut RA Risk,3,6
+story_reviews_01418,HealthDay,Statins May Guard Against Rheumatoid Arthritis,3,5
+story_reviews_01419,The Houston Chronicle,Your skin vs. the sun: A sunscreen pill?,2,2
+story_reviews_01420,Reuters Health,Magic mushrooms may ease anxiety of cancer: study,2,4
+story_reviews_01421,AP Associated Press,Picking right blood pressure medicine challenging,3,5
+story_reviews_01422,USA Today,"Can a new supplement boost immunity, slow aging?",3,5
+story_reviews_01423,HealthDay,Pancreatic Chemo Comparison Finds No Survival Boost,4,7
+story_reviews_01424,The New York Times,Topical Gel Catches Up With Pills for Relief,4,8
+story_reviews_01425,HealthDay,Experimental TB Test Called Fast and Accurate,3,5
+story_reviews_01426,The New York Times,Study Shows SAMe May Ease Depression,3,6
+story_reviews_01427,NPR,Breast Removal Reduces Cancer Risk In Some Women,2,3
+story_reviews_01428,AP Associated Press,Benefits seen for high-risk women in ovary removal,5,9
+story_reviews_01429,HealthDay,Preventive Surgeries May Be Lifesaver for Women at High Cancer Risk,3,6
+story_reviews_01430,Reuters Health,Surgery prevents breast cancers in high-risk women,1,2
+story_reviews_01431,HealthDay,Diabetes Drug Metformin Linked to Lower Lung Cancer Rate in Mice,5,9
+story_reviews_01432,Los Angeles Times,"Arthroscopic rotator cuff surgery might benefit older people, study finds",1,1
+story_reviews_01433,Reuters Health,Diabetes drug may keep lung cancer at bay,3,4
+story_reviews_01434,The Houston Chronicle,New pathway to the heart,1,2
+story_reviews_01435,HealthDay,Low-Dose Omega-3 Fatty Acids Don’t Protect Heart Patients,4,6
+story_reviews_01436,WebMD,"Marijuana Relieves Chronic Pain, Research Shows",2,3
+story_reviews_01437,Reuters Health,Pot may provide some chronic pain relief: study,4,8
+story_reviews_01438,AP Associated Press,Study: More omega-3 fats didn’t aid heart patients,5,9
+story_reviews_01439,Reuters Health,Omega-3 margarines fail to help in heart study,5,7
+story_reviews_01440,Reuters Health,"Gaining on death, cooling therapy catches on slowly",5,10
+story_reviews_01441,USA Today,"‘Breakthrough’ melanoma drug shrinks tumors, may prolong life*",4,7
+story_reviews_01442,HealthDay,Biosynthetic Corneas Show Promise in Transplants,4,8
+story_reviews_01443,Reuters Health,Scientists use synthetic corneas to restore vision,2,3
+story_reviews_01444,WebMD,First Biosynthetic Corneas Implanted,5,9
+story_reviews_01445,Reuters Health,New treatment for advanced melanoma shrinks tumors,2,4
+story_reviews_01446,HealthDay,"In Early Trial, Targeted Therapy Fights Advanced Melanoma",4,7
+story_reviews_01447,The Wall Street Journal,New Hope in Fatigue Fight,2,3
+story_reviews_01448,The Philadelphia Inquirer,A surgeon’s hands or a robot’s?,2,4
+story_reviews_01449,The New York Times,"Studying Acupuncture, One Needle Prick at a Time",3,5
+story_reviews_01450,HealthDay,Virtual Colonoscopy Can Spot Cancers Outside Colon,0,0
+story_reviews_01451,USA Today,Tai chi may ease fibromyalgia pain,4,7
+story_reviews_01452,The New York Times,Tai Chi Reported to Ease Fibromyalgia,4,8
+story_reviews_01453,AP Associated Press,Study shows value of quality-of-life cancer care,4,6
+story_reviews_01454,AP Associated Press,"Tai chi eases fibromyalgia symptoms, study finds",2,3
+story_reviews_01455,The New York Times,"Palliative Care Extends Life, Study Finds",4,7
+story_reviews_01456,Los Angeles Times,Tai Chi improves symptoms of fibromyalgia,3,6
+story_reviews_01459,HealthDay,Tai Chi May Help Ease Fibromyalgia,2,3
+story_reviews_01460,NPR,Obesity Surgery Helps Diabetic Patients Kick Medicines,4,6
+story_reviews_01461,HealthDay,Less Invasive Biopsies Gain Favor,2,3
+story_reviews_01462,The Philadelphia Inquirer,"Beta-blockers used by musicians, athletes, students to enhance performance",2,4
+story_reviews_01463,Los Angeles Times,"For diabetics, taking the sting out of insulin",4,7
+story_reviews_01464,Reuters Health,Oral alternative to allergy shots improves hay fever,4,7
+story_reviews_01465,WebMD,Study Shows a Probiotic Supplement May Help Treat Babies With Colic,2,3
+story_reviews_01466,Reuters Health,"Burger and a statin to go? Or hold that, please?",5,9
+story_reviews_01467,Reuters Health,Should belly fat prompt early colon cancer screens?,4,8
+story_reviews_01468,Reuters Health,Spinal fluid proteins can help diagnose Alzheimer’s,1,1
+story_reviews_01469,Reuters Health,Quick brain scan could screen for autism,3,5
+story_reviews_01471,Reuters Health,Breath test may be able to detect common cancers,1,1
+story_reviews_01472,Los Angeles Times,Effectiveness of statins is called into question,4,7
+story_reviews_01473,WebMD,Spinal Fluid Test May Diagnose Alzheimer’s,3,6
+story_reviews_01474,Reuters Health,Some evidence vitamin D might fight colds,4,6
+story_reviews_01475,The New York Times,Phys Ed: How Much Does Knee Surgery Really Help?,5,9
+story_reviews_01476,WebMD,Resveratrol May Slow Aging in Humans,1,1
+story_reviews_01477,USA Today,"Low-carb, low-calorie diets can both result in weight loss",3,5
+story_reviews_01478,Reuters Health,Ketamine lifts mood quickly in bipolar disorder,2,4
+story_reviews_01479,Sun-Sentinel,Castration Drug Used as Autism Therapy,5,10
+story_reviews_01480,Los Angeles Times,In the Works: Immunotherapy for food allergies,4,8
+story_reviews_01481,AP Associated Press,Low-carb diet trumps low-fat on ‘good’ cholesterol,3,5
+story_reviews_01482,The Mercury News,Mountain View physician invents device for clearing up dangerous blood clots,2,2
+story_reviews_01483,NPR,Costly New Prostate Cancer Drug Works In Mysterious Ways,5,9
+story_reviews_01484,HealthDay,Could Drinking Help Thwart Rheumatoid Arthritis?,2,3
+story_reviews_01485,The Wall Street Journal,Is a Colonoscopy More Effective in High-Def?,4,7
+story_reviews_01486,NPR,Common Diagnostic Test May Prolong Low Back Pain,2,3
+story_reviews_01487,USA Today,Your Health: Should men also be screened for osteoporosis?,3,4
+story_reviews_01488,The Boston Globe,The big thaw,5,9
+story_reviews_01489,NPR,Tiny Eye Telescope Brings Back A World Of Sight,5,9
+story_reviews_01490,Reuters Health,What “clinically proven” means for a beauty product,5,8
+story_reviews_01491,The Wall Street Journal,New Test for Brain Injury on Horizon,3,4
+story_reviews_01492,HealthDay,Avastin Largely Safe for Patients With Type of Advanced Lung Cancer,3,5
+story_reviews_01493,The Houston Chronicle,Hate needles? Flu patch may take sting out of your fears,2,3
+story_reviews_01494,AP Associated Press,Microneedles may make getting flu shots easier,2,3
+story_reviews_01495,CNN Health,Can Ecstasy help ease post-traumatic stress?,2,3
+story_reviews_01496,AP Associated Press,"Experimental diet pill shows promise, little risk",3,5
+story_reviews_01497,The New York Times,An Artificial Heart Its Makers Say Could Be a Standard Replacement,2,4
+story_reviews_01498,HealthDay,New Pill Found to Cut Weight With Few Side Effects: Study,4,8
+story_reviews_01499,WebMD,"Diet Drug Lorcaserin Safe, Effective, Study Finds",3,6
+story_reviews_01500,Chicago Sun-Times,A better way to see the brain,2,3
+story_reviews_01501,Reuters Health,Higher vitamin E intake tied to lower dementia risk,4,6
+story_reviews_01502,The New York Times,New Scan May Spot Alzheimerâ€™s,2,4
+story_reviews_01503,HealthDay,Experts Issue New Guidelines on Breast Cancer Drugs,3,6
+story_reviews_01504,Reuters Health,All kids should have cholesterol tests: study,4,6
+story_reviews_01505,HealthDay,Screening Guidelines Miss Many Kids With High Cholesterol,3,4
+story_reviews_01506,TIME,The Case for Universal Cholesterol Screening in Kids,2,2
+story_reviews_01507,The Wall Street Journal,Study: Avidâ€™s Imaging Dye Can Detect Alzheimerâ€™s From Scan,3,4
+story_reviews_01508,Los Angeles Times,Gallbladder removed through mouth in new surgical technique,1,1
+story_reviews_01509,HealthDay,Fish Oil Supplements Linked to Lower Risk of Breast Cancer: Study,4,5
+story_reviews_01510,WebMD,Fish Oil Linked to Lower Breast Cancer Risk,4,5
+story_reviews_01511,WebMD,FDA OKs Implantable Telescope to Aid Vision,3,6
+story_reviews_01512,AP Associated Press,FDA clears first implantable telescope for vision,5,9
+story_reviews_01513,Reuters Health,“Mind-body” therapy shows promise for fibromyalgia,4,7
+story_reviews_01514,HealthDay,"PSA Test Does Cut Prostate Cancer Deaths, Study Finds",3,5
+story_reviews_01515,WebMD,Pill Treats Painful Fibroids,2,4
+story_reviews_01516,Reuters Health,Medtronic insulin pump beats injections in study,1,1
+story_reviews_01517,HealthDay,Statins May Lower Rates of Prostate Cancer Recurrence,5,9
+story_reviews_01518,AP Associated Press,Cholesterol drugs for the healthy still debatable,4,8
+story_reviews_01519,WebMD,Statins May Protect Prostate Cancer Patients,2,4
+story_reviews_01520,USA Today,Progress made on artificial pancreas for diabetic patients,2,2
+story_reviews_01521,HealthDay,Artificial Pancreas Continues to Show Promise,1,1
+story_reviews_01522,Reuters Health,Scientists find way to predict timing of menopause,2,2
+story_reviews_01523,The New York Times,Promise Seen for Detection of Alzheimerâ€™s,3,6
+story_reviews_01524,CNN Health,Ladies: 5 ways to feel sexy again,1,1
+story_reviews_01525,AP Associated Press,Stem cells reverse blindness caused by burns,3,5
+story_reviews_01526,WebMD,Lots of Coffee Lowers Oral Cancer Risk,1,1
+story_reviews_01527,CNN Health,Coffee may cut risk for some cancers,4,5
+story_reviews_01528,The New York Times,New Tools for Helping Heart Patients,2,4
+story_reviews_01529,Reuters Health,Experimental flu treatment may help related virus,3,4
+story_reviews_01530,The Philadelphia Inquirer,‘Liberation procedure’ for multiple sclerosis sparks debate,4,8
+story_reviews_01531,NPR,Generic Drug Could Save Many Trauma Patients,4,7
+story_reviews_01532,Reuters Health,New “morning-after” pill effective and safe: FDA staff,3,4
+story_reviews_01533,Reuters Health,Endometriosis? Robot surgery may not be the answer,3,6
+story_reviews_01534,The New York Times,Eating Brown Rice to Cut Diabetes Risk,3,4
+story_reviews_01535,Los Angeles Times,"The pros and cons of Prolia, Amgen’s new osteoporosis drug",5,9
+story_reviews_01536,HealthDay,Drug That Stops Bleeding Could Save Lives,4,7
+story_reviews_01537,AP Associated Press,Cheap drug could save tens of thousands,4,7
+story_reviews_01538,The Oregonian,Portland cancer center among those offering experimental immune therapy ipilimumab,5,9
+story_reviews_01539,Reuters Health,Merck drug improves sleep in insomnia study,1,1
+story_reviews_01540,Los Angeles Times,Bioidentical hormones for menopausal symptoms,3,6
+story_reviews_01541,USA Today,"In melanoma patients, immune therapy may boost survival",5,8
+story_reviews_01542,Chicago Tribune,Study: One dose of radiation during breast cancer surgery is effective,3,6
+story_reviews_01543,Reuters Health,Urine test improves prostate diagnosis: study,3,5
+story_reviews_01544,Los Angeles Times,Low-dose combination of Avandia and metformin decreases progression to diabetes by two-thirds with few side effects,5,9
+story_reviews_01546,WebMD,New Drug Spray May Help Premature Ejaculation,5,9
+story_reviews_01547,The Wall Street Journal,Trial Help for Sex Problems,4,7
+story_reviews_01548,MSNBC,Trigger happy? A new spray aims to delay amorous men,2,2
+story_reviews_01549,Reuters Health,Sanofi prostate cancer drug shows 28 percent survival,2,3
+story_reviews_01550,HealthDay,Laser Used to Blast Away Cells Causing Irregular Heartbeat,1,1
+story_reviews_01551,HealthDay,Breast Cancer Study Offers New Hope,1,2
+story_reviews_01552,The New York Times,Hepatitis C Drug Raises Cure Rate in Late Trial,3,6
+story_reviews_01553,Los Angeles Times,Does do-it-yourself colon cleansing really improve health?,5,9
+story_reviews_01554,Reuters Health,Drug may work in melanoma tumors in brain,2,3
+story_reviews_01555,The Houston Chronicle,Finding a “silent killer”,5,10
+story_reviews_01556,USA Today,Special diet doesn’t help kids with autism in small study,5,8
+story_reviews_01557,HealthDay,New Hope for Early Detection of Autism,3,5
+story_reviews_01558,WebMD,‘Female Viagra’ May Treat Low Sexual Desire,5,9
+story_reviews_01559,Reuters Health,"Drug may prevent lung cancer, study finds",2,2
+story_reviews_01560,HealthDay,Impotence Drugs May Aid Brain Tumor Treatment,1,1
+story_reviews_01561,The New York Times,Under-Skin Defibrillators Seen Closer to Reality,5,9
+story_reviews_01562,WebMD,Sleeping Pill May Treat Fibromyalgia Pain,4,8
+story_reviews_01563,Reuters Health,Below-the-skin defibrillator restores heartbeat,4,6
+story_reviews_01564,The New York Times,New Help to Free Legs From a Web,2,3
+story_reviews_01565,WebMD,Weight Loss Pill Also Lowers Blood Pressure,4,7
+story_reviews_01566,HealthDay,New Test for Colon Cancer Under Development,1,1
+story_reviews_01567,CNN Health,New Ankle Implant,0,0
+story_reviews_01568,Los Angeles Times,Antibiotic shows lasting effects against diarrhea-focused irritable bowel syndrome,2,4
+story_reviews_01569,Reuters Health,Magnetic brain stimulation fights depression,3,5
+story_reviews_01570,HealthDay,Colonoscopy Prep in a Pill May Be Easier to Swallow,0,0
+story_reviews_01571,The New York Times,Promise Seen in Drug for Retardation Syndrome,3,5
+story_reviews_01572,HealthDay,Drug a New Treatment Option for Diabetic Eye Disease,1,1
+story_reviews_01573,WebMD,Drug Reverses Diabetes-Related Vision Loss,4,8
+story_reviews_01574,The New York Times,A Genentech Eye Treatment Is Found to Help Prevent Vision Loss in Diabetics,5,10
+story_reviews_01575,AP Associated Press,5-minute colon cancer test could save thousands,2,4
+story_reviews_01576,Chicago Tribune,"Athletes turn to plasma therapy, but the data are mixed",3,6
+story_reviews_01577,HealthDay,Drinking Green Tea May Protect Eyes,0,0
+story_reviews_01578,MSNBC,Trendy fizzy drink is mushrooming,5,10
+story_reviews_01579,HealthDay,"In Early Test, New Hepatitis C Drug Shows Promise",2,2
+story_reviews_01580,WebMD,Experimental Drug May Treat Hepatitis C,4,6
+story_reviews_01581,NPR,Lung Cancer Screening Often Raises False Alarm,5,7
+story_reviews_01582,USA Today,Study: Bone drug lowers breast cancer risk 38% in high-risk women,3,6
+story_reviews_01583,AP Associated Press,Study: 2 good choices to prevent breast cancer,5,9
+story_reviews_01584,HealthDay,New Test May Predict Prostate Cancer’s Aggressiveness,2,3
+story_reviews_01585,The Houston Chronicle,Constant migraines may be from an unlikely culprit: a deviated septum,0,0
+story_reviews_01586,WebMD,Drug for Immune Disorders Helps Alzheimer’s,4,8
+story_reviews_01587,The Denver Post,Stem-cell therapy feels Food and Drug Administration’s pinch,3,5
+story_reviews_01588,WebMD,Knee Braces Ease Osteoarthritis Pain,1,2
+story_reviews_01589,HealthDay,Magnets Might Boost Stem Cell Therapy,1,1
+story_reviews_01590,Chicago Tribune,Health claim: Weight loss shot dissolves fat,4,5
+story_reviews_01591,The Washington Post,Sleep’s role in weight loss remains a mystery,3,4
+story_reviews_01592,AP Associated Press,Developing test to warn smokers of cancer danger,3,4
+story_reviews_01593,AP Associated Press,Study: Riskier surgeries for back pain raise costs,5,10
+story_reviews_01594,HealthDay,‘Electronic Nose’ Sniffs Out Asthma,5,9
+story_reviews_01595,HealthDay,Simple Test May Spot Early Lung Cancer,2,3
+story_reviews_01596,Reuters Health,Gene found that may predict lung cancer in smokers,3,4
+story_reviews_01597,WebMD,Test May Reveal Early Signs of Emphysema,0,0
+story_reviews_01598,HealthDay,Acupuncture May Help Restore Lost Sense of Smell,0,0
+story_reviews_01599,Los Angeles Times,Prostate drug may work as a preventive,3,6
+story_reviews_01600,Chicago Tribune,Stroke study offers hope for Bloomingdale man,2,3
+story_reviews_01601,WebMD,Avodart May Lower Prostate Cancer Risk,5,10
+story_reviews_01602,Los Angeles Times,Liver supplements donâ€™t seem to offer protection,5,9
+story_reviews_01603,HealthDay,Beta Blockers May Slow Spread of Breast Cancer,3,5
+story_reviews_01604,NPR,Are We Overselling The Sunshine Vitamin?,5,9
+story_reviews_01605,AP Associated Press,"Study adds evidence that bone drugs work, are safe",5,9
+story_reviews_01606,The New York Times,Laser Treatment May Work for Cataracts,2,2
+story_reviews_01607,Los Angeles Times,Drug for menstrual cramps in the works,2,2
+story_reviews_01608,HealthDay,New Inhaled Insulin Shows Promise for Diabetes,2,3
+story_reviews_01609,HealthDay,Tequila Plant May Help Fight Bone Loss,1,1
+story_reviews_01610,HealthDay,Plavix Can Help Cut Death Risk in Certain Heart Patients,2,3
+story_reviews_01611,Reuters Health,Nanotech robots deliver gene therapy through blood,3,4
+story_reviews_01612,HealthDay,Gene-Targeted Cancer Fix Could Be a Breakthrough,3,4
+story_reviews_01613,The New York Times,Triumph for Drug to Straighten Clenched Fingers,5,10
+story_reviews_01614,WebMD,Salsalate May Help Treat Type 2 Diabetes,4,5
+story_reviews_01615,WebMD,New Way to Treat Inoperable Lung Cancer,3,4
+story_reviews_01616,HealthDay,Newer Genetic Test for Autism More Effective,4,7
+story_reviews_01617,Reuters Health,Medtronic atrial fibrillation system shines in study,4,6
+story_reviews_01618,HealthDay,"Arthritis Drug May Fight Diabetes, Too",2,3
+story_reviews_01619,WebMD,Onion Cream Treats New Stretch Marks,3,5
+story_reviews_01620,HealthDay,Alternative to Statins Shows Promise,2,4
+story_reviews_01621,WebMD,Cholesterol Drugs May Treat Psoriasis,2,4
+story_reviews_01622,HealthDay,Electromagnetic Pulses May Stem Arthritic Knee Pain,0,0
+story_reviews_01623,CNN Health,Breakthrough asthma treatment,2,4
+story_reviews_01624,WebMD,Test May Cut Unneeded Prostate Biopsies,1,2
+story_reviews_01625,WebMD,Portable Device May Relieve Migraine Pain,3,5
+story_reviews_01626,Reuters Health,Brain images suggest Alzheimer’s drug is working,2,3
+story_reviews_01627,CNN Health,Cord blood stem cells help meet minority marrow needs,2,3
+story_reviews_01628,The New York Times,Study Finds Stents Effective in Preventing Strokes,4,7
+story_reviews_01629,Los Angeles Times,Stroke study puts 2 procedures on equal footing,3,6
+story_reviews_01630,The Wall Street Journal,Acupuncture Benefit Seen in Pregnancy,3,4
+story_reviews_01631,HealthDay,Acupuncture May Ease Depression During Pregnancy,4,7
+story_reviews_01632,AP Associated Press,Zapping fibroids with heat in hunt for new options,4,8
+story_reviews_01633,HealthDay,"Bitter Melon Extract May Slow, Stop Breast Cancer",3,4
+story_reviews_01634,Reuters Health,Acupuncture shows promise for depression in pregnancy,3,5
+story_reviews_01635,WebMD,Acupuncture Eases Depression in Pregnancy,1,2
+story_reviews_01636,Los Angeles Times,"Aspirin might reduce recurrence risk for breast cancer survivors, study finds",5,7
+story_reviews_01637,HealthDay,Ibuprofen May Help Stave Off Parkinson’s,3,5
+story_reviews_01638,The Washington Post,Hormone-infused nasal spray found to help people with autism,3,6
+story_reviews_01639,Los Angeles Times,Hormone oxytocin may help Asperger’s patients,1,1
+story_reviews_01640,HealthDay,‘Bonding’ Hormone Might Help Some With Autism,5,9
+story_reviews_01641,HealthDay,Dark Chocolate May Lower Stroke Risk,3,4
+story_reviews_01642,WebMD,Milk for Mom May Lower Babyâ€™s MS Risk,3,4
+story_reviews_01643,CNN Health,"Mediterranean diet may help prevent dementia, study says",3,4
+story_reviews_01644,The New York Times,Insulin Study Could Lead to New Dosage Devices,4,8
+story_reviews_01645,The New York Times,Zap or Chill? Targeting Fat Without Surgery,4,8
+story_reviews_01646,Reuters Health,Test of “artificial pancreas” offers diabetes hope,1,1
+story_reviews_01647,Reuters Health,Hormone replacement tied to lower colon cancer risk,5,7
+story_reviews_01648,WebMD,Breakthrough in Creating Artificial Pancreas,2,3
+story_reviews_01649,HealthDay,CT Scans Deemed Best for Checking Heart Arteries,2,4
+story_reviews_01650,Chicago Tribune,Industrial chemical OSR#1 used as autism treatment,5,9
+story_reviews_01651,Los Angeles Times,Face time with MyClyns anti-germ spray,4,7
+story_reviews_01652,Reuters Health,Can fish oil help guard against schizophrenia?,4,6
+story_reviews_01653,WebMD,Fish Oil May Fight Psychosis,4,7
+story_reviews_01654,AP Associated Press,Fish oil shows promise in preventing psychosis,4,7
+story_reviews_01655,Los Angeles Times,Fish oil can head off first psychotic episodes,3,4
+story_reviews_01656,AP Associated Press,New morning-after pill works for up to 5 days,4,8
+story_reviews_01657,WebMD,Blood Test May Predict Rheumatoid Arthritis,0,0
+story_reviews_01658,Los Angeles Times,Surgical procedure urged for atrial fibrillation,3,6
+story_reviews_01659,Reuters Health,Ultrasound may cut deaths in high-risk pregnancies,4,8
+story_reviews_01660,HealthDay,New Scan May Help Find Aggressive Prostate Tumors,1,1
+story_reviews_01661,HealthDay,"For Lower Blood Pressure, Low-Carb Diet May Be Best",3,6
+story_reviews_01662,WebMD,Low-Carb Diet Lowers Blood Pressure,2,4
+story_reviews_01663,Los Angeles Times,Oral multiple sclerosis drug shows promise,2,4
+story_reviews_01664,AP Associated Press,"MS pills show promise and risk, studies say",4,8
+story_reviews_01665,NPR,MS Patients May Soon Bypass Painful Injections,4,7
+story_reviews_01666,HealthDay,Should HPV Test Replace the Pap Smear?,4,8
+story_reviews_01667,HealthDay,Immune Response Better With Skin Scratch Vaccination,1,1
+story_reviews_01668,The New York Times,Ankles Gain as Candidates for Joint Replacement,2,4
+story_reviews_01669,WebMD,New Anticlotting Drug Beats Plavix,4,8
+story_reviews_01670,WebMD,Blood Test for Lung Cancer in the Works,5,7
+story_reviews_01671,HealthDay,Some Blood Pressure Drugs May Stave Off Dementia,4,7
+story_reviews_01672,Los Angeles Times,"Debate over cognitive, traditional mental health therapy",4,6
+story_reviews_01673,Reuters Health,"Robot prostate surgery has downsides, needs more data",4,7
+story_reviews_01674,HealthDay,More Aggressive Treatment for Weekend Stroke,4,6
+story_reviews_01675,Reuters Health,Weekend stroke care more aggressive but not better,4,6
+story_reviews_01676,HealthDay,To Circumcise or Not?,2,3
+story_reviews_01677,Los Angeles Times,A cocktail to remember? Nutrient elixir shows promise against Alzheimer’s,2,2
+story_reviews_01678,WebMD,New Brain Scan May Predict Alzheimer’s,2,3
+story_reviews_01679,Reuters Health,Nose treatment cuts hospital-acquired infections,2,4
+story_reviews_01680,HealthDay,Ear Infections: New Thinking on What to Do,3,6
+story_reviews_01681,HealthDay,Sinus Surgery Brings Relief to Many,3,5
+story_reviews_01682,HealthDay,Ginkgo Won’t Slow Decline of Aging Brain,3,4
+story_reviews_01683,USA Today,"Study: Ginkgo biloba has no effect on Alzheimer’s, dementia",4,7
+story_reviews_01684,WebMD,Compound May Fight Hard-to-Treat Lung Cancer,2,2
+story_reviews_01685,NPR,Health Experts Call For Heart Checkups For Kids,2,3
+story_reviews_01686,Los Angeles Times,Using CT scans to see plaque in coronary arteries,3,5
+story_reviews_01687,Los Angeles Times,Zinc may ward off viruses but there are dangers,3,5
+story_reviews_01688,The New York Times,RISKS: Fighting Diabetes With Lots of Espresso,0,0
+story_reviews_01689,WebMD,Natural Treatment for RSV Infection?,2,2
+story_reviews_01690,CNN Health,Stem cell therapies for hearts inching closer to wide use,5,8
+story_reviews_01691,The Wall Street Journal,Giving a Heart a Hand,4,8
+story_reviews_01692,NPR,Radiation From CT Scans May Raise Cancer Risk,4,7
+story_reviews_01693,WebMD,Targeted Breast Cancer Drug Shrinks Tumors,2,3
+story_reviews_01694,Reuters Health,Radiation from CT scans may raise cancer risks,3,5
+story_reviews_01695,Reuters Health,"More evidence coffee, tea could prevent diabetes",4,5
+story_reviews_01697,WebMD,Diagnosing Breast Cancer: Needle Biopsy Best?,2,3
+story_reviews_01698,CNN Health,Artificial retina gives woman limited vision after decades of darkness,2,3
+story_reviews_01699,AP Associated Press,Studies: Bone drugs may help prevent breast cancer,4,8

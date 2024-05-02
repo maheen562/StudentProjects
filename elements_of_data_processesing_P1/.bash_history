@@ -1,0 +1,11 @@
+python main.py task2
+python main.py task2
+python main.py task2
+python main.py task2
+python main.py task2
+python main.py task2
+python main.py task2
+python main.py task2
+python main.py task2
+python main.py task2
+python main.py task2
