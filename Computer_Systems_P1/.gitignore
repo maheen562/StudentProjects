@@ -1,0 +1,5 @@
+.vscode
+*.o
+allocate
+*.out
+.DS_Store

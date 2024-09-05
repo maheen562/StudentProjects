@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CardGameTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-10-19T15:20:21" hostname="DESKTOP-39ELCD3" time="85.875">
+  <properties/>
+  <testcase name="testCardGameOriginal" classname="CardGameTest" time="37.49"/>
+  <testcase name="testCardGameValidCard" classname="CardGameTest" time="48.383"/>
+  <system-out><![CDATA[logResult = Round1:P0-1C,P1-SKIP,P2-SKIP,P3-SKIP,Score:10,0,0,0,
+Round2:P0-11C,P1-11S,P2-SKIP,P3-SKIP,P0-12S,P1-12C,P2-SKIP,P3-SKIP,P0-13C,P1-13S,P2-SKIP,P3-SKIP,P0-SKIP,Score:10,60,0,0,
+Round3:P1-1D,P2-8D,P3-8C,P0-9C,P1-9H,P2-SKIP,P3-11H,P0-SKIP,P1-SKIP,P2-11D,P3-SKIP,P0-SKIP,P1-SKIP,Score:10,60,64,0,
+Round4:P2-12D,P3-12H,P0-SKIP,P1-SKIP,P2-SKIP,Score:10,60,64,20,
+Round5:P3-3C,P0-3D,P1-3H,P2-6H,P3-6C,P0-6D,P1-SKIP,P2-13D,P3-13H,P0-SKIP,P1-SKIP,P2-SKIP,Score:10,60,64,67,
+Round6:P3-9S,P0-9D,P1-SKIP,P2-SKIP,P3-SKIP,Score:28,60,64,67,
+Round7:P0-7D,P1-7S,P2-SKIP,P3-10S,P0-10D,P1-10C,P2-SKIP,P3-10H,P0-SKIP,P1-SKIP,P2-SKIP,Score:28,60,64,121,
+Round8:P3-2S,P0-2H,P1-7H,P2-SKIP,P3-SKIP,P0-SKIP,Score:28,71,64,121,
+Round9:P1-4D,P2-5D,P3-5H,P0-SKIP,P1-5C,P2-5S,P3-SKIP,P0-8S,P1-8H,P2-SKIP,P3-SKIP,P0-SKIP,Score:28,111,64,121,
+Round10:P1-7C,Score:28,118,64,121,
+EndGame:25,118,30,113,
+Winners:1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

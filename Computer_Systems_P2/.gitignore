@@ -1,0 +1,7 @@
+target/
+*.out
+fetchmail_program/vendor
+*.crt
+*.pem
+*.key
+fetchmail
